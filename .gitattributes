@@ -1,0 +1,16 @@
+# 统一行尾处理，避免跨平台协作时产生无意义 diff 或脚本失效
+* text=auto
+
+# Gradle 启动脚本必须保持 LF，否则 macOS / Linux 上会因 shebang 后带 \r 而无法执行
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# 二进制文件不做行尾转换
+*.jar binary
+*.png binary
+*.webp binary
+*.apk binary
+*.aab binary
+*.jks binary
+*.keystore binary
