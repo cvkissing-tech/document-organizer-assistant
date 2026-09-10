@@ -1,0 +1,133 @@
+<resources>
+    <!-- First-use guide -->
+    <string name="guide_close">Close</string>
+    <string name="guide_skip">Skip</string>
+    <string name="guide_find_title">Find your scattered documents</string>
+    <string name="guide_find_description">Scan PDF, Word, Excel, and PowerPoint files on your phone.\nSee them together without moving the originals.</string>
+    <string name="guide_review_title">Review versions, then organize</string>
+    <string name="guide_review_description">Choose the current file when names are similar, or remove exact copies.\nDeleted copies can be restored from Trash.</string>
+    <string name="guide_next">Next</string>
+    <string name="guide_finish">Done</string>
+    <string name="guide_start">Get started</string>
+
+    <!-- First access -->
+    <string name="onboarding_title">Choose where to scan</string>
+    <string name="onboarding_description">Only document information is read. Files are not uploaded,\nand their original locations are not changed.</string>
+    <string name="onboarding_scan_all">Scan all documents</string>
+    <string name="onboarding_saving_folder">Saving folder…</string>
+    <string name="onboarding_choose_folder">Choose folders</string>
+    <string name="onboarding_choose_file">Choose files</string>
+    <string name="onboarding_choose_file_description">Import only the documents you select</string>
+    <string name="onboarding_open_permission_failed">Couldn’t open all-files access settings. Folder mode is now selected.</string>
+    <string name="onboarding_save_folder_failed">Couldn’t save folder access</string>
+
+    <!-- Scan locations -->
+    <string name="scan_sources_title">Scan locations</string>
+    <string name="scan_sources_all_documents">All documents</string>
+    <string name="scan_sources_all_description">Scan accessible documents on this device</string>
+    <string name="scan_sources_open_permission">Open system settings to allow access</string>
+    <string name="scan_sources_selected_folders">Selected folders</string>
+    <string name="scan_sources_choose_folder_description">Choose a folder and include its subfolders</string>
+    <string name="scan_sources_selected_files">Selected files</string>
+    <string name="scan_sources_add_files_description">Manually add one or more documents</string>
+    <string name="scan_sources_authorized_folders">Allowed folders</string>
+    <string name="scan_sources_add_folder">Add folder</string>
+    <string name="scan_sources_include_subfolders">Scan accessible subfolders too</string>
+    <string name="scan_sources_folder_fallback">this folder</string>
+    <string name="scan_sources_stop_title">Stop scanning “%1$s”?</string>
+    <string name="scan_sources_stop_message">This only stops scanning the folder. Real files are not deleted, moved, or changed.</string>
+    <string name="scan_sources_stop_confirm">Stop scanning</string>
+    <string name="scan_sources_cancel">Cancel</string>
+    <string name="scan_sources_permission_expired">Access expired</string>
+    <string name="scan_sources_subfolders">Includes subfolders</string>
+    <string name="scan_sources_subfolders_last_scan">Includes subfolders · %1$s</string>
+    <string name="scan_sources_reauthorize">Allow again</string>
+    <string name="scan_sources_remove">Remove</string>
+    <string name="scan_sources_need_full_access">Allow access to all documents first</string>
+    <string name="scan_sources_switched_all">Using all documents</string>
+    <string name="scan_sources_switched_folders">Using selected folders</string>
+    <string name="scan_sources_removed">Folder removed from scanning. Original files were not changed.</string>
+    <string name="scan_sources_remove_failed">Couldn’t remove the scan folder</string>
+    <string name="scan_sources_added_updating">Folder added. Documents are updating in the background.</string>
+    <string name="scan_sources_added_scan_later">Folder added. Scan again later.</string>
+    <string name="scan_sources_add_failed">Couldn’t add the folder</string>
+    <string name="scan_sources_rescanning">Scanning again in the background</string>
+    <string name="scan_sources_rescan_failed">Couldn’t scan again right now</string>
+    <string name="scan_sources_reauthorized_updating">Access restored. Documents are updating in the background.</string>
+    <string name="scan_sources_reauthorized_scan_later">Access restored. Scan again later.</string>
+    <string name="scan_sources_reauthorize_failed">Couldn’t restore folder access</string>
+    <string name="scan_sources_permission_denied">All-documents access wasn’t allowed. Selected folders are still used.</string>
+    <string name="scan_sources_all_updating">Using all documents. Documents are updating in the background.</string>
+    <string name="scan_sources_all_scan_later">Using all documents. Scan again later.</string>
+    <string name="scan_sources_open_system_failed">Couldn’t open system settings. Allow all-documents access in Android Settings.</string>
+
+    <!-- Import -->
+    <string name="import_title">Save documents</string>
+    <string name="import_loading">Reading documents</string>
+    <plurals name="import_pending_count">
+        <item quantity="one">%1$d document to save</item>
+        <item quantity="other">%1$d documents to save</item>
+    </plurals>
+    <plurals name="import_unsupported_count">
+        <item quantity="one">Ignored %1$d unsupported file</item>
+        <item quantity="other">Ignored %1$d unsupported files</item>
+    </plurals>
+    <string name="import_inbox_location">Save to: Document Inbox</string>
+    <string name="import_saving">Saving…</string>
+    <string name="import_choose_location">Choose save location</string>
+    <plurals name="import_save_count">
+        <item quantity="one">Save %1$d document</item>
+        <item quantity="other">Save %1$d documents</item>
+    </plurals>
+    <string name="import_original_kept">Original files won’t be deleted</string>
+    <string name="import_explanation">Files are saved to Document Inbox, then appear in Uncategorized for organizing.</string>
+    <string name="import_item_saving">Saving</string>
+    <string name="import_result">Saved %1$d · Skipped %2$d · Failed %3$d</string>
+
+    <!-- Trash -->
+    <string name="trash_delete_selected_title">Delete selected documents forever?</string>
+    <plurals name="trash_delete_selected_message">
+        <item quantity="one">%1$d document will be permanently deleted and can’t be restored.</item>
+        <item quantity="other">%1$d documents will be permanently deleted and can’t be restored.</item>
+    </plurals>
+    <string name="trash_delete_forever">Delete forever</string>
+    <string name="trash_cancel">Cancel</string>
+    <string name="trash_clear_title">Empty Trash?</string>
+    <plurals name="trash_clear_message">
+        <item quantity="one">%1$d document in Trash will be permanently deleted and can’t be restored.</item>
+        <item quantity="other">%1$d documents in Trash will be permanently deleted and can’t be restored.</item>
+    </plurals>
+    <string name="trash_clear">Empty</string>
+    <string name="trash_restore_elsewhere">Restore to another folder</string>
+    <string name="trash_restore_selected">Restore selected</string>
+    <string name="trash_select_all">Select all</string>
+    <string name="trash_deselect_all">Deselect all</string>
+    <string name="trash_retention">Files stay in Trash for 30 days</string>
+    <string name="trash_empty_title">Trash is empty</string>
+    <string name="trash_empty_message">Deleted documents stay here temporarily and can be restored for 30 days.</string>
+    <string name="trash_restore">Restore</string>
+    <string name="trash_deleted_on">Deleted %1$s</string>
+    <plurals name="trash_restored_count">
+        <item quantity="one">Restored %1$d document</item>
+        <item quantity="other">Restored %1$d documents</item>
+    </plurals>
+    <string name="trash_restored_with_failures">Restored %1$d · %2$d need another location</string>
+    <string name="trash_deleted_with_failures">Permanently deleted %1$d · %2$d not changed</string>
+    <string name="trash_operation_cancelled">Cancelled. No files were changed.</string>
+    <plurals name="trash_deleted_forever_count">
+        <item quantity="one">Permanently deleted %1$d document</item>
+        <item quantity="other">Permanently deleted %1$d documents</item>
+    </plurals>
+
+    <!-- PDF reader -->
+    <string name="pdf_reader_title">PDF reader</string>
+    <string name="pdf_reader_share_failed">Couldn’t share this file. Scan again or check access.</string>
+    <string name="pdf_reader_page_description">PDF page %1$d</string>
+    <string name="pdf_reader_missing_file_detail">The file may have been moved or deleted outside the app. Scanning again updates the index but can’t guarantee the file will be found.</string>
+    <string name="pdf_reader_previous_page">Previous page</string>
+    <string name="pdf_reader_next_page">Next page</string>
+    <string name="pdf_reader_page_count">%1$d / %2$d pages</string>
+    <string name="pdf_reader_zoom_hint">Pinch to zoom · Double-tap to enlarge</string>
+    <string name="pdf_reader_open_failed">Couldn’t open the PDF</string>
+    <string name="pdf_reader_render_failed">Couldn’t display this page</string>
+</resources>

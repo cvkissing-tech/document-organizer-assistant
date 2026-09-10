@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shared document organization actions -->
+    <string name="organization_action_cancel">Cancel</string>
+    <string name="organization_action_undo">Undo</string>
+    <string name="organization_action_multi_select">Select</string>
+    <string name="organization_action_exit_multi_select">Exit selection</string>
+    <string name="organization_action_enter_multi_select">Select documents</string>
+    <string name="organization_action_add_to_category">Add to category</string>
+    <string name="organization_action_categorize">Categorize</string>
+    <string name="organization_action_move_to_trash">Move to trash</string>
+    <string name="organization_action_add_documents">Add documents</string>
+    <string name="organization_action_rename">Rename</string>
+    <string name="organization_action_delete_category">Delete category</string>
+    <string name="organization_action_delete">Delete</string>
+    <string name="organization_action_remove">Remove</string>
+    <string name="organization_action_save">Save</string>
+    <string name="organization_action_create">Create</string>
+    <string name="organization_action_create_and_add">Create and add</string>
+
+    <!-- Search, filters, and sorting -->
+    <string name="organization_search_file_name">Search file names</string>
+    <string name="organization_search_documents">Search documents</string>
+    <string name="organization_clear_search">Clear search</string>
+    <string name="organization_filter_format_all">All</string>
+    <string name="organization_filter_format_pdf">PDF</string>
+    <string name="organization_filter_format_word">Word</string>
+    <string name="organization_filter_format_excel">Excel</string>
+    <string name="organization_filter_format_ppt">PPT</string>
+    <string name="organization_filter_all">All</string>
+    <string name="organization_filter_unclassified">Uncategorized</string>
+    <string name="organization_filter_classified">Categorized</string>
+    <string name="organization_filter_needs_review">Review</string>
+    <string name="organization_sort_modified">Last modified</string>
+    <string name="organization_sort_name">Name</string>
+    <string name="organization_sort_size">Size</string>
+    <string name="organization_type_value">Type: %1$s</string>
+    <string name="organization_sorted_by">Sort: %1$s</string>
+    <string name="organization_filter_and_sort">Filter and sort</string>
+    <string name="organization_choose_file_type">Choose file type</string>
+    <string name="organization_file_format">File type</string>
+    <string name="organization_status">Organization status</string>
+    <string name="organization_category_filter">Category</string>
+    <string name="organization_no_category_limit">Any category</string>
+    <string name="organization_sort">Sort by</string>
+    <plurals name="organization_view_documents">
+        <item quantity="one">View %1$d document</item>
+        <item quantity="other">View %1$d documents</item>
+    </plurals>
+
+    <!-- All documents -->
+    <string name="organization_all_documents">All documents</string>
+    <string name="organization_trash">Trash</string>
+    <string name="organization_no_documents">No documents yet</string>
+    <string name="organization_no_matching_documents">No matching documents</string>
+    <string name="organization_no_documents_detail">PDF and common Office documents will appear here after a scan.</string>
+    <string name="organization_no_matching_documents_detail">Clear the search or adjust the file type, status, and category filters.</string>
+    <string name="organization_more_actions_for">More actions for %1$s</string>
+    <string name="organization_file_location">File location</string>
+    <string name="organization_source_value">Source: %1$s</string>
+    <string name="organization_location_explanation">This is the location recorded during the scan. The original file has not been moved or changed.</string>
+    <string name="organization_move_to_trash_question">Move to trash?</string>
+    <string name="organization_move_to_trash_explanation">The file will move from its current location to the app trash and can be restored within 30 days.</string>
+    <string name="organization_share_failed">This file cannot be shared. Scan again or check access.</string>
+    <string name="organization_share_file">Share file</string>
+    <string name="organization_move_to_folder">Move to folder</string>
+    <string name="organization_move_to_folder_detail">Changes the file’s location on this phone</string>
+    <string name="organization_view_file_location">View file location</string>
+    <string name="organization_recover_within_30_days">Restore within 30 days</string>
+    <string name="organization_original_file_not_moved">Original file stays in place</string>
+    <string name="organization_no_categories">No categories yet</string>
+    <string name="organization_create_category_first">Create a category from the Categories tab first.</string>
+    <string name="organization_already_in_category">The selected documents are already in “%1$s”</string>
+    <string name="organization_added_to_category">Added %1$d documents to “%2$s”</string>
+    <string name="organization_already_in_selected_category">The selected documents are already in this category</string>
+    <string name="organization_added_to_selected_category">Added %1$d documents to the selected category</string>
+    <string name="organization_moved_to_trash">Moved to trash</string>
+    <string name="organization_trash_unsupported">This location doesn’t support safe deletion. The original file was not changed.</string>
+    <string name="organization_trash_failed">Couldn’t move the file to trash. The original file was not changed.</string>
+    <string name="organization_restored_documents">Restored %1$d documents</string>
+    <string name="organization_moved_to_folder">Document moved to the new folder</string>
+    <string name="organization_move_failed">Couldn’t move the document. The original file was not changed.</string>
+    <plurals name="organization_documents_count">
+        <item quantity="one">%1$d document</item>
+        <item quantity="other">%1$d documents</item>
+    </plurals>
+    <plurals name="organization_selected_short">
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+    <plurals name="organization_selected_not_moved">
+        <item quantity="one">%1$d selected · Original stays in place</item>
+        <item quantity="other">%1$d selected · Originals stay in place</item>
+    </plurals>
+
+    <!-- Review documents -->
+    <string name="organization_review_documents">Review documents</string>
+    <string name="organization_similar_names">Similar names</string>
+    <string name="organization_exact_duplicates">Exact copies</string>
+    <string name="organization_no_similar_names">No documents with similar names</string>
+    <string name="organization_no_similar_names_detail">Possible versions will appear here after a scan.</string>
+    <string name="organization_similar_documents_fallback">Similar documents</string>
+    <string name="organization_no_exact_duplicates">No exact copies found</string>
+    <string name="organization_no_exact_duplicates_detail">Files with identical content will appear here.</string>
+    <string name="organization_duplicate_group">Duplicate group %1$d</string>
+    <string name="organization_current">Current</string>
+    <string name="organization_set_current">Set current</string>
+    <string name="organization_not_same_document">Not the same document</string>
+    <string name="organization_ignore_group">Ignore this group</string>
+    <string name="organization_review_later">Review later</string>
+    <string name="organization_group_more_actions">More version group actions</string>
+    <string name="organization_not_related_saved">Removed and correction saved</string>
+    <string name="organization_group_ignored">Hidden while the members stay unchanged</string>
+    <string name="organization_review_kept_for_later">Kept in documents to review</string>
+    <string name="organization_feedback_group_unavailable">This version group changed. Review it again.</string>
+    <string name="organization_feedback_saved_queue_failed">Change saved, but checking could not start</string>
+    <string name="organization_analysis_retry_started">Checking again</string>
+    <string name="organization_evidence_core_name">Same core name</string>
+    <string name="organization_evidence_content">Similar content</string>
+    <string name="organization_evidence_version_marker">Version marker found</string>
+    <string name="organization_evidence_same_folder">Same folder</string>
+    <string name="organization_evidence_close_time">Modified close together</string>
+    <string name="organization_evidence_close_size">Similar file size</string>
+    <string name="organization_evidence_user_merged">Merged by you</string>
+    <plurals name="organization_evidence_days_apart">
+        <item quantity="one">%1$d day apart</item>
+        <item quantity="other">%1$d days apart</item>
+    </plurals>
+    <string name="organization_merge_as_versions">Merge as versions</string>
+    <string name="organization_batch_more">More</string>
+    <string name="organization_batch_more_actions">More batch actions</string>
+    <string name="organization_versions_merged">Merged. Updating the version group.</string>
+    <string name="organization_merge_need_two">Select at least 2 documents</string>
+    <string name="organization_merge_too_many">Merge up to 20 documents at a time</string>
+    <string name="organization_merge_unavailable">Some documents are unavailable. Select them again.</string>
+    <string name="organization_merge_family_mismatch">Only documents of the same type can be merged</string>
+    <string name="organization_merge_exact_duplicates">These files have identical content. Use Exact copies instead.</string>
+    <string name="organization_merge_blocked_by_feedback">Some files were marked as not the same document</string>
+    <string name="organization_merge_saved_queue_failed">Version relationship saved, but checking could not start</string>
+    <string name="organization_checking_selected_documents">Checking these documents</string>
+    <string name="organization_checking_selected_documents_detail">The matching version group will appear here automatically</string>
+    <string name="organization_target_documents_not_found">No matching version group found</string>
+    <string name="organization_target_documents_not_found_detail">These documents were not identified as one version group</string>
+    <string name="organization_action_back">Back</string>
+    <string name="organization_show_evidence">Show evidence</string>
+    <string name="organization_hide_evidence">Hide evidence</string>
+    <string name="organization_tap_to_open">Tap to open · %1$s</string>
+    <string name="organization_version_latest">Most recently modified · %1$s</string>
+    <string name="organization_version_same_time">Same modified time · %1$s</string>
+    <string name="organization_version_time_unknown">Modified time unknown · %1$s</string>
+    <string name="organization_version_earlier_moments">Modified earlier · %1$s</string>
+    <string name="organization_version_size_smaller">%1$s smaller</string>
+    <string name="organization_version_size_larger">%1$s larger</string>
+    <plurals name="organization_version_minutes_earlier">
+        <item quantity="one">%1$d minute earlier · %2$s</item>
+        <item quantity="other">%1$d minutes earlier · %2$s</item>
+    </plurals>
+    <plurals name="organization_version_hours_earlier">
+        <item quantity="one">%1$d hour earlier · %2$s</item>
+        <item quantity="other">%1$d hours earlier · %2$s</item>
+    </plurals>
+    <plurals name="organization_version_days_earlier">
+        <item quantity="one">%1$d day earlier · %2$s</item>
+        <item quantity="other">%1$d days earlier · %2$s</item>
+    </plurals>
+    <string name="organization_share_named_document">Share %1$s</string>
+    <string name="organization_select_named_document">Select %1$s</string>
+    <string name="organization_deselect_named_document">Deselect %1$s</string>
+    <string name="organization_clean_copies_question">Remove duplicate copies?</string>
+    <string name="organization_clean_copies_explanation">These copies will move to trash. At least one file in each group is kept, and removed files can be restored within 30 days.</string>
+    <string name="organization_keep_one_per_group">Keep at least one document in each group</string>
+    <string name="organization_duplicate_trash_success">Moved %1$d documents to trash</string>
+    <string name="organization_duplicate_trash_partial">Moved %1$d; %2$d were unchanged</string>
+    <string name="organization_trash_cancelled">Cancelled. No files were changed.</string>
+    <string name="organization_trash_waiting_confirmation">Waiting for system confirmation</string>
+    <plurals name="organization_groups_count">
+        <item quantity="one">%1$d group</item>
+        <item quantity="other">%1$d groups</item>
+    </plurals>
+    <plurals name="organization_similar_group_detail">
+        <item quantity="one">%1$d document · Review</item>
+        <item quantity="other">%1$d documents · Review</item>
+    </plurals>
+    <plurals name="organization_exact_group_detail">
+        <item quantity="one">%1$d document · Identical content</item>
+        <item quantity="other">%1$d documents · Identical content</item>
+    </plurals>
+    <plurals name="organization_selected_exact_documents">
+        <item quantity="one">%1$d exact copy selected</item>
+        <item quantity="other">%1$d exact copies selected</item>
+    </plurals>
+
+    <!-- Categories -->
+    <string name="organization_categories">Categories</string>
+    <string name="organization_my_categories">My categories</string>
+    <string name="organization_to_organize">To organize</string>
+    <string name="organization_unclassified">Uncategorized</string>
+    <string name="organization_unclassified_documents">Uncategorized documents</string>
+    <string name="organization_unclassified_page">Documents to categorize</string>
+    <string name="organization_create_category">New category</string>
+    <string name="organization_rename_category">Rename category</string>
+    <string name="organization_create_category_and_add">Create category and add</string>
+    <string name="organization_category_name">Category name</string>
+    <string name="organization_create_category_failed">Couldn’t create the category</string>
+    <string name="organization_rename_category_failed">Couldn’t rename the category</string>
+    <string name="organization_category_name_required">Enter a category name</string>
+    <string name="organization_category_name_too_long">Category names can contain up to 20 characters</string>
+    <string name="organization_category_name_duplicate">A category with this name already exists</string>
+    <string name="organization_file_actions">File actions</string>
+    <string name="organization_remove_from_category">Remove from this category</string>
+    <string name="organization_delete_named_category_question">Delete “%1$s”?</string>
+    <string name="organization_delete_category_explanation">Only the category is deleted. Its documents are not deleted or moved.</string>
+    <string name="organization_remove_from_named_category_question">Remove from “%1$s”?</string>
+    <string name="organization_remove_named_document_explanation">“%1$s” will be removed from this category. The original file will not be deleted or moved.</string>
+    <string name="organization_no_unclassified_documents">No documents to categorize</string>
+    <string name="organization_empty_category">No documents in this category</string>
+    <string name="organization_unclassified_empty_detail">Uncategorized documents will appear here after a scan.</string>
+    <string name="organization_empty_category_detail">Add documents that are already in the app.</string>
+    <string name="organization_category_only_explanation">This only adds an in-app category. The original file stays in place.</string>
+    <string name="organization_no_categories_create_one">No categories yet. Create one first.</string>
+    <string name="organization_no_categories_return">No categories yet. Return to Categories and create one first.</string>
+    <string name="organization_all_documents_in_category">All documents are already in this category</string>
+    <string name="organization_no_search_matches">No matching documents</string>
+    <string name="organization_choose_documents_to_add">Choose documents to add</string>
+    <plurals name="organization_added_documents">
+        <item quantity="one">Add %1$d document</item>
+        <item quantity="other">Add %1$d documents</item>
+    </plurals>
+    <string name="organization_categorized_documents">Categorized %1$d documents</string>
+    <plurals name="organization_category_count">
+        <item quantity="one">%1$d category</item>
+        <item quantity="other">%1$d categories</item>
+    </plurals>
+    <plurals name="organization_category_document_count">
+        <item quantity="one">%1$d document</item>
+        <item quantity="other">%1$d documents</item>
+    </plurals>
+    <plurals name="organization_unclassified_count">
+        <item quantity="one">%1$d document to categorize</item>
+        <item quantity="other">%1$d documents to categorize</item>
+    </plurals>
+
+    <!-- Metadata -->
+    <string name="organization_authorized_folder">Authorized folder</string>
+    <string name="organization_unknown_date">Date unknown</string>
+</resources>

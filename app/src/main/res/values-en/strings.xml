@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Document Organizer</string>
+
+    <!-- Common actions and accessibility labels -->
+    <string name="action_back">Back</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_got_it">Got it</string>
+    <string name="action_view_location">View location</string>
+    <string name="action_share_file">Share file</string>
+    <string name="action_start_scan">Start scan</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_continue">Resume</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_rescan">Scan again</string>
+    <string name="action_stop_scan">Stop scan</string>
+    <string name="action_view_all">View all</string>
+    <string name="action_start_review">Review</string>
+    <string name="action_view">View</string>
+    <string name="action_organize">Organize</string>
+    <string name="action_choose_folder">Choose folder</string>
+    <string name="action_more">More actions</string>
+    <string name="home_scan_error_detail">The scan didn’t finish. Try again or check file access.</string>
+
+    <!-- Navigation -->
+    <string name="destination_first_use_guide">How it works</string>
+    <string name="destination_help_guide">Help</string>
+    <string name="destination_onboarding">Access</string>
+    <string name="destination_home">Organize</string>
+    <string name="destination_documents">Documents</string>
+    <string name="destination_categories">Categories</string>
+    <string name="destination_related">Review</string>
+    <string name="destination_settings">Settings</string>
+    <string name="destination_scan_sources">Scan locations</string>
+    <string name="destination_trash">Trash</string>
+    <string name="destination_import">Import document</string>
+
+    <!-- Shared components -->
+    <plurals name="documents_selected_count">
+        <item quantity="one">%1$d document selected</item>
+        <item quantity="other">%1$d documents selected</item>
+    </plurals>
+    <string name="document_format_generic">this file type</string>
+    <string name="document_location_title">File location</string>
+    <string name="document_open_error_title">Can’t open this file</string>
+    <string name="document_open_error_message">No app on this phone can open %1$s.\nYou can view its location or share it with another app.</string>
+    <string name="document_share_error">This file can’t be shared right now</string>
+    <string name="related_empty_title">No documents to review</string>
+    <string name="related_empty_detail">Scan again to check for updates</string>
+    <string name="related_stack_title">Review versions or remove copies</string>
+    <string name="related_stack_detail">Compare similar names; choose which identical copies to keep</string>
+    <string name="related_document_label">Related</string>
+    <string name="related_pending_label">Review</string>
+    <plurals name="name_similar_groups_count">
+        <item quantity="one">Similar names · %1$d group</item>
+        <item quantity="other">Similar names · %1$d groups</item>
+    </plurals>
+    <plurals name="exact_duplicate_groups_count">
+        <item quantity="one">Exact copies · %1$d group</item>
+        <item quantity="other">Exact copies · %1$d groups</item>
+    </plurals>
+
+    <!-- Home -->
+    <string name="home_recent_opened">Recently opened</string>
+    <string name="home_recent_empty">Documents you open will appear here</string>
+    <string name="home_confirm_documents">Review documents</string>
+    <string name="home_confirm_documents_detail">Compare similar versions or duplicate copies</string>
+    <string name="home_name_similar">Similar names</string>
+    <string name="home_exact_duplicate">Exact copies</string>
+    <string name="home_no_pending_review">Nothing to review</string>
+    <string name="home_all_classified">All documents are categorized</string>
+    <string name="home_generic_document_type">Document</string>
+    <string name="home_scan_source_removed">Scan location removed</string>
+    <string name="home_scan_source_removed_detail">Choose a folder again to continue organizing documents.</string>
+    <plurals name="document_groups_count">
+        <item quantity="one">%1$d group</item>
+        <item quantity="other">%1$d groups</item>
+    </plurals>
+    <plurals name="home_unclassified_count">
+        <item quantity="one">%1$d document to categorize</item>
+        <item quantity="other">%1$d documents to categorize</item>
+    </plurals>
+    <plurals name="home_scan_completed_snackbar">
+        <item quantity="one">Scan complete · %1$d document found</item>
+        <item quantity="other">Scan complete · %1$d documents found</item>
+    </plurals>
+    <plurals name="home_scan_unread_files">
+        <item quantity="one">%1$d file couldn’t be read; scanning will continue</item>
+        <item quantity="other">%1$d files couldn’t be read; scanning will continue</item>
+    </plurals>
+
+    <!-- Home scan status, emitted by the ViewModel as resource IDs -->
+    <string name="home_scan_initial_title">Ready for your first scan</string>
+    <string name="home_scan_initial_detail">Find and organize PDF and Office documents on this phone</string>
+    <string name="home_scan_queued">Preparing to scan</string>
+    <string name="home_scan_discovering">Finding documents</string>
+    <string name="home_scan_indexing">Adding documents</string>
+    <string name="home_scan_finalizing">Finishing up</string>
+    <string name="home_scan_updated">Documents updated</string>
+    <string name="home_scan_paused">Scan paused</string>
+    <string name="home_scan_stopped">Scan stopped</string>
+    <string name="home_scan_failed">Scan problem</string>
+    <string name="home_scan_cancelled_empty">Your organized documents were kept</string>
+    <string name="home_scan_selected_running">Scanning selected folders</string>
+    <string name="home_scan_selected_needs_attention">Some folders need attention</string>
+    <string name="home_scan_selected_updated">Selected folders updated</string>
+    <string name="home_scan_selected_waiting">Ready to scan selected folders</string>
+    <string name="home_scan_authorized_only">Only folders you allow are organized</string>
+    <string name="home_scan_count_detail">Folders checked: %1$,d · Files checked: %2$,d · Documents found: %3$,d</string>
+    <string name="home_relation_exact_duplicates">Checking duplicate files</string>
+    <string name="home_relation_name_candidates">Finding similar versions</string>
+    <string name="home_relation_content_verification">Checking document content</string>
+    <string name="home_relation_saving">Finishing organization</string>
+    <string name="home_relation_retry_later">Version check will retry later</string>
+    <string name="home_relation_status_description">%1$s. Checked %2$d, candidates %3$d, unfinished %4$d</string>
+    <plurals name="home_scan_completed_detail">
+        <item quantity="one">Last scan %1$s · %2$d document found</item>
+        <item quantity="other">Last scan %1$s · %2$d documents found</item>
+    </plurals>
+    <plurals name="home_scan_cancelled_kept">
+        <item quantity="one">Kept the %1$d document found</item>
+        <item quantity="other">Kept the %1$d documents found</item>
+    </plurals>
+    <plurals name="home_scan_documents_found">
+        <item quantity="one">%1$d document found</item>
+        <item quantity="other">%1$d documents found</item>
+    </plurals>
+    <plurals name="home_scan_folders_need_authorization">
+        <item quantity="one">%1$d folder needs access again</item>
+        <item quantity="other">%1$d folders need access again</item>
+    </plurals>
+    <string name="home_receipt_title">Organization complete</string>
+    <string name="home_receipt_documents_ready">Documents found</string>
+    <string name="home_receipt_discovered">Found</string>
+    <string name="home_receipt_review">Review</string>
+    <string name="home_receipt_unclassified">Uncategorized</string>
+    <string name="home_receipt_step_description">%1$s, %2$d</string>
+</resources>

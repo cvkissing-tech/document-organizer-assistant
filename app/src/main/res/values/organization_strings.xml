@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 通用文档整理操作 -->
+    <string name="organization_action_cancel">取消</string>
+    <string name="organization_action_undo">撤销</string>
+    <string name="organization_action_multi_select">多选</string>
+    <string name="organization_action_exit_multi_select">退出多选</string>
+    <string name="organization_action_enter_multi_select">进入多选</string>
+    <string name="organization_action_add_to_category">添加到分类</string>
+    <string name="organization_action_categorize">归入分类</string>
+    <string name="organization_action_move_to_trash">移入回收站</string>
+    <string name="organization_action_add_documents">添加文档</string>
+    <string name="organization_action_rename">重命名</string>
+    <string name="organization_action_delete_category">删除分类</string>
+    <string name="organization_action_delete">删除</string>
+    <string name="organization_action_remove">移出</string>
+    <string name="organization_action_save">保存</string>
+    <string name="organization_action_create">创建</string>
+    <string name="organization_action_create_and_add">创建并归入</string>
+
+    <!-- 搜索、筛选和排序 -->
+    <string name="organization_search_file_name">搜索文件名</string>
+    <string name="organization_search_documents">搜索文档</string>
+    <string name="organization_clear_search">清除搜索</string>
+    <string name="organization_filter_format_all">全部</string>
+    <string name="organization_filter_format_pdf">PDF</string>
+    <string name="organization_filter_format_word">Word</string>
+    <string name="organization_filter_format_excel">Excel</string>
+    <string name="organization_filter_format_ppt">PPT</string>
+    <string name="organization_filter_all">全部</string>
+    <string name="organization_filter_unclassified">未分类</string>
+    <string name="organization_filter_classified">已分类</string>
+    <string name="organization_filter_needs_review">需确认</string>
+    <string name="organization_sort_modified">最近修改</string>
+    <string name="organization_sort_name">名称</string>
+    <string name="organization_sort_size">大小</string>
+    <string name="organization_type_value">类型：%1$s</string>
+    <string name="organization_sorted_by">按%1$s</string>
+    <string name="organization_filter_and_sort">筛选与排序</string>
+    <string name="organization_choose_file_type">选择文件类型</string>
+    <string name="organization_file_format">文件格式</string>
+    <string name="organization_status">整理状态</string>
+    <string name="organization_category_filter">所属分类</string>
+    <string name="organization_no_category_limit">不限定</string>
+    <string name="organization_sort">排序</string>
+    <plurals name="organization_view_documents">
+        <item quantity="other">查看 %1$d 份文档</item>
+    </plurals>
+
+    <!-- 全部文档 -->
+    <string name="organization_all_documents">全部文档</string>
+    <string name="organization_trash">回收站</string>
+    <string name="organization_no_documents">还没有文档</string>
+    <string name="organization_no_matching_documents">没有符合条件的文档</string>
+    <string name="organization_no_documents_detail">完成扫描后，PDF 和常见 Office 文档会集中出现在这里。</string>
+    <string name="organization_no_matching_documents_detail">试试清除搜索词，或调整格式、整理状态和所属分类。</string>
+    <string name="organization_more_actions_for">%1$s的更多操作</string>
+    <string name="organization_file_location">文件位置</string>
+    <string name="organization_source_value">来源：%1$s</string>
+    <string name="organization_location_explanation">这里显示应用扫描时记录的位置，不会移动或修改原文件。</string>
+    <string name="organization_move_to_trash_question">移入回收站？</string>
+    <string name="organization_move_to_trash_explanation">文件会从原位置移入应用回收站，30 天内可以恢复。</string>
+    <string name="organization_share_failed">无法分享这份文件，请重新扫描或检查权限</string>
+    <string name="organization_share_file">分享文件</string>
+    <string name="organization_move_to_folder">移动到文件夹</string>
+    <string name="organization_move_to_folder_detail">更改手机中的文件位置</string>
+    <string name="organization_view_file_location">查看文件位置</string>
+    <string name="organization_recover_within_30_days">30 天内可恢复</string>
+    <string name="organization_original_file_not_moved">不移动原文件</string>
+    <string name="organization_no_categories">还没有分类</string>
+    <string name="organization_create_category_first">请先到“分类”页新建分类。</string>
+    <string name="organization_already_in_category">所选文档已经在“%1$s”中</string>
+    <string name="organization_added_to_category">已将 %1$d 份文档添加到“%2$s”</string>
+    <string name="organization_already_in_selected_category">所选文档已经在这个分类中</string>
+    <string name="organization_added_to_selected_category">已将 %1$d 份文档添加到所选分类</string>
+    <string name="organization_moved_to_trash">已移入回收站</string>
+    <string name="organization_trash_unsupported">这个位置暂不支持安全删除，原文件没有改变</string>
+    <string name="organization_trash_failed">暂时无法移入回收站，原文件没有改变</string>
+    <string name="organization_restored_documents">已恢复 %1$d 份文档</string>
+    <string name="organization_moved_to_folder">文档已移动到新文件夹</string>
+    <string name="organization_move_failed">移动文档失败，原文件未改变</string>
+    <plurals name="organization_documents_count">
+        <item quantity="other">%1$d 份</item>
+    </plurals>
+    <plurals name="organization_selected_short">
+        <item quantity="other">已选 %1$d 份</item>
+    </plurals>
+    <plurals name="organization_selected_not_moved">
+        <item quantity="other">已选 %1$d 份 · 不移动原文件</item>
+    </plurals>
+
+    <!-- 确认文档 -->
+    <string name="organization_review_documents">确认文档</string>
+    <string name="organization_similar_names">名称相似</string>
+    <string name="organization_exact_duplicates">完全重复</string>
+    <string name="organization_no_similar_names">没有名称相似的文档</string>
+    <string name="organization_no_similar_names_detail">扫描后，可能相关的文件会显示在这里。</string>
+    <string name="organization_similar_documents_fallback">名称相似文档</string>
+    <string name="organization_no_exact_duplicates">没有发现完全重复的文档</string>
+    <string name="organization_no_exact_duplicates_detail">内容完全相同的副本会显示在这里。</string>
+    <string name="organization_duplicate_group">重复组 %1$d</string>
+    <string name="organization_current">当前</string>
+    <string name="organization_set_current">设为当前</string>
+    <string name="organization_not_same_document">不是同一文档</string>
+    <string name="organization_ignore_group">忽略此组</string>
+    <string name="organization_review_later">稍后处理</string>
+    <string name="organization_group_more_actions">版本组更多操作</string>
+    <string name="organization_not_related_saved">已移出，并记住这次纠正</string>
+    <string name="organization_group_ignored">成员不变时不再提醒</string>
+    <string name="organization_review_kept_for_later">已保留在待确认中</string>
+    <string name="organization_feedback_group_unavailable">这个版本组已更新，请重新查看</string>
+    <string name="organization_feedback_saved_queue_failed">更改已保存，但未能开始核对</string>
+    <string name="organization_analysis_retry_started">正在重新核对</string>
+    <string name="organization_evidence_core_name">核心名称一致</string>
+    <string name="organization_evidence_content">内容相似</string>
+    <string name="organization_evidence_version_marker">含版本标记</string>
+    <string name="organization_evidence_same_folder">来自同一文件夹</string>
+    <string name="organization_evidence_close_time">修改时间接近</string>
+    <string name="organization_evidence_close_size">文件大小接近</string>
+    <string name="organization_evidence_user_merged">由你合并</string>
+    <plurals name="organization_evidence_days_apart">
+        <item quantity="other">相隔 %1$d 天</item>
+    </plurals>
+    <string name="organization_merge_as_versions">合并为版本组</string>
+    <string name="organization_batch_more">更多</string>
+    <string name="organization_batch_more_actions">批量更多操作</string>
+    <string name="organization_versions_merged">已合并，正在更新版本组</string>
+    <string name="organization_merge_need_two">请至少选择 2 份文档</string>
+    <string name="organization_merge_too_many">一次最多合并 20 份文档</string>
+    <string name="organization_merge_unavailable">部分文档已不可用，请重新选择</string>
+    <string name="organization_merge_family_mismatch">只能合并同一类型的文档</string>
+    <string name="organization_merge_exact_duplicates">内容完全相同，请到“完全重复”中处理</string>
+    <string name="organization_merge_blocked_by_feedback">其中有你标记为“不是同一文档”的文件</string>
+    <string name="organization_merge_saved_queue_failed">版本关系已保存，但未能开始核对</string>
+    <string name="organization_checking_selected_documents">正在核对这些文档</string>
+    <string name="organization_checking_selected_documents_detail">完成后会自动显示对应版本组</string>
+    <string name="organization_target_documents_not_found">未找到对应版本组</string>
+    <string name="organization_target_documents_not_found_detail">这些文档未被判定为同一版本组</string>
+    <string name="organization_action_back">返回</string>
+    <string name="organization_show_evidence">查看依据</string>
+    <string name="organization_hide_evidence">收起依据</string>
+    <string name="organization_tap_to_open">轻触打开 · %1$s</string>
+    <string name="organization_version_latest">本组最近修改 · %1$s</string>
+    <string name="organization_version_same_time">修改时间相同 · %1$s</string>
+    <string name="organization_version_time_unknown">修改时间未知 · %1$s</string>
+    <string name="organization_version_earlier_moments">修改更早 · %1$s</string>
+    <string name="organization_version_size_smaller">小 %1$s</string>
+    <string name="organization_version_size_larger">大 %1$s</string>
+    <plurals name="organization_version_minutes_earlier">
+        <item quantity="other">早 %1$d 分钟 · %2$s</item>
+    </plurals>
+    <plurals name="organization_version_hours_earlier">
+        <item quantity="other">早 %1$d 小时 · %2$s</item>
+    </plurals>
+    <plurals name="organization_version_days_earlier">
+        <item quantity="other">早 %1$d 天 · %2$s</item>
+    </plurals>
+    <string name="organization_share_named_document">分享%1$s</string>
+    <string name="organization_select_named_document">选择%1$s</string>
+    <string name="organization_deselect_named_document">取消选择%1$s</string>
+    <string name="organization_clean_copies_question">清理重复副本？</string>
+    <string name="organization_clean_copies_explanation">这些副本将移入回收站。每组至少保留一份，30 天内可以恢复。</string>
+    <string name="organization_keep_one_per_group">每组至少保留一份文档</string>
+    <string name="organization_duplicate_trash_success">已将 %1$d 份文档移入回收站</string>
+    <string name="organization_duplicate_trash_partial">已移入 %1$d 份，%2$d 份未改变</string>
+    <string name="organization_trash_cancelled">已取消，文件没有改变</string>
+    <string name="organization_trash_waiting_confirmation">等待系统确认</string>
+    <plurals name="organization_groups_count">
+        <item quantity="other">%1$d组</item>
+    </plurals>
+    <plurals name="organization_similar_group_detail">
+        <item quantity="other">%1$d 份 · 需确认</item>
+    </plurals>
+    <plurals name="organization_exact_group_detail">
+        <item quantity="other">%1$d 份 · 内容相同</item>
+    </plurals>
+    <plurals name="organization_selected_exact_documents">
+        <item quantity="other">已选择 %1$d 份完全重复文档</item>
+    </plurals>
+
+    <!-- 分类 -->
+    <string name="organization_categories">分类</string>
+    <string name="organization_my_categories">我的分类</string>
+    <string name="organization_to_organize">待整理</string>
+    <string name="organization_unclassified">待归类</string>
+    <string name="organization_unclassified_documents">未分类文档</string>
+    <string name="organization_unclassified_page">待归类文档</string>
+    <string name="organization_create_category">新建分类</string>
+    <string name="organization_rename_category">重命名分类</string>
+    <string name="organization_create_category_and_add">新建分类并归入</string>
+    <string name="organization_category_name">分类名称</string>
+    <string name="organization_create_category_failed">无法创建分类</string>
+    <string name="organization_rename_category_failed">无法重命名分类</string>
+    <string name="organization_category_name_required">分类名称不能为空</string>
+    <string name="organization_category_name_too_long">分类名称不能超过20个字</string>
+    <string name="organization_category_name_duplicate">已经有同名分类</string>
+    <string name="organization_file_actions">文件操作</string>
+    <string name="organization_remove_from_category">移出当前分类</string>
+    <string name="organization_delete_named_category_question">删除“%1$s”？</string>
+    <string name="organization_delete_category_explanation">只删除分类，不会删除或移动其中的文档。</string>
+    <string name="organization_remove_from_named_category_question">移出“%1$s”？</string>
+    <string name="organization_remove_named_document_explanation">“%1$s”将从这个分类移出。原文件不会被删除或移动。</string>
+    <string name="organization_no_unclassified_documents">没有待归类文档</string>
+    <string name="organization_empty_category">这个分类还没有文档</string>
+    <string name="organization_unclassified_empty_detail">扫描后，未分类的文档会显示在这里。</string>
+    <string name="organization_empty_category_detail">从已收录文档中添加。</string>
+    <string name="organization_category_only_explanation">仅添加应用内分类，不会移动手机中的原文件。</string>
+    <string name="organization_no_categories_create_one">还没有分类，可以先创建一个。</string>
+    <string name="organization_no_categories_return">还没有分类，请先返回分类页新建分类。</string>
+    <string name="organization_all_documents_in_category">所有文档都已在这个分类中</string>
+    <string name="organization_no_search_matches">没有匹配的文档</string>
+    <string name="organization_choose_documents_to_add">选择要添加的文档</string>
+    <plurals name="organization_added_documents">
+        <item quantity="other">添加 %1$d 份文档</item>
+    </plurals>
+    <string name="organization_categorized_documents">已归类 %1$d 份文档</string>
+    <plurals name="organization_category_count">
+        <item quantity="other">%1$d 个</item>
+    </plurals>
+    <plurals name="organization_category_document_count">
+        <item quantity="other">%1$d 份文档</item>
+    </plurals>
+    <plurals name="organization_unclassified_count">
+        <item quantity="other">%1$d 份待归类</item>
+    </plurals>
+
+    <!-- 元数据 -->
+    <string name="organization_authorized_folder">已授权文件夹</string>
+    <string name="organization_unknown_date">日期未知</string>
+</resources>

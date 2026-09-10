@@ -1,0 +1,41 @@
+<resources>
+    <!-- Language selection -->
+    <string name="destination_language_gate">Language setup</string>
+    <string name="destination_language">Language</string>
+    <string name="language_brand_name">文档整理助手 / Document Organizer</string>
+    <string name="language_title">选择语言 / Choose language</string>
+    <string name="language_subtitle">稍后可在设置中修改 / You can change this later in Settings.</string>
+    <string name="language_option_chinese">简体中文</string>
+    <string name="language_option_chinese_detail">中文界面</string>
+    <string name="language_option_english">English</string>
+    <string name="language_option_english_detail">English interface</string>
+    <string name="language_continue_chinese">继续</string>
+    <string name="language_continue_english">Continue</string>
+    <string name="language_selected_description">已选择 %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_title">设置</string>
+    <string name="settings_section_scan_files">扫描与文件</string>
+    <string name="settings_scan_scope">扫描范围</string>
+    <string name="settings_scope_all_documents">全部文档</string>
+    <plurals name="settings_scope_selected_folders">
+        <item quantity="other">指定文件夹 · %1$d 个位置</item>
+    </plurals>
+    <string name="settings_automatic_scan">自动扫描</string>
+    <string name="settings_automatic_scan_detail">进入应用时检查新文档</string>
+    <string name="settings_trash">回收站</string>
+    <plurals name="settings_trash_count">
+        <item quantity="other">%1$d 份文件</item>
+    </plurals>
+    <string name="settings_section_use_help">使用与帮助</string>
+    <string name="settings_language">显示语言</string>
+    <string name="settings_help">使用说明</string>
+    <string name="settings_help_detail">查看扫描、确认和分类方法</string>
+    <string name="settings_privacy">隐私说明</string>
+    <string name="settings_privacy_detail">文件仅在本机处理</string>
+    <string name="settings_about">关于应用</string>
+    <string name="settings_version">版本 %1$s</string>
+    <string name="settings_privacy_dialog_title">文件只在本机处理</string>
+    <string name="settings_privacy_dialog_message">应用只在本机索引 PDF、Word、Excel、PPT 等常见文档，不上传文件内容，也不读取照片和视频。</string>
+    <string name="settings_about_dialog_message">版本 %1$s\n帮助你集中发现、确认并分类手机中的文档。</string>
+</resources>

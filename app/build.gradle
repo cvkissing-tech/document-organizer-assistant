@@ -1,0 +1,111 @@
+plugins {
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.ksp)
+    alias(libs.plugins.room)
+}
+
+room {
+    schemaDirectory "$projectDir/schemas"
+}
+
+android {
+    namespace 'com.wenxu.app'
+    compileSdk {
+        version = release(37)
+    }
+
+    defaultConfig {
+        applicationId "com.wenxu.app"
+        minSdk 30
+        targetSdk 37
+        versionCode 1
+        versionName "0.1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            optimization {
+                enable false
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    buildFeatures {
+        compose true
+        buildConfig true
+    }
+    testOptions {
+        unitTests.includeAndroidResources = true
+    }
+    packaging {
+        resources.excludes += "/META-INF/{AL2.0,LGPL2.1}"
+    }
+}
+
+dependencies {
+    implementation platform(libs.compose.bom)
+    androidTestImplementation platform(libs.compose.bom)
+    implementation libs.compose.ui
+    implementation libs.compose.ui.tooling.preview
+    implementation libs.compose.material3
+    implementation libs.activity.compose
+    implementation libs.lifecycle.runtime.compose
+    implementation libs.lifecycle.viewmodel.compose
+    implementation libs.lifecycle.viewmodel.ktx
+    implementation libs.coroutines.android
+    implementation libs.documentfile
+    implementation libs.navigation.compose
+    implementation libs.datastore.preferences
+    implementation libs.work.runtime.ktx
+    implementation libs.appcompat
+    implementation libs.room.runtime
+    implementation libs.room.ktx
+    ksp libs.room.compiler
+    testImplementation libs.junit
+    testImplementation libs.truth
+    testImplementation libs.coroutines.test
+    testImplementation libs.work.testing
+    testImplementation 'org.json:json:20240303'
+    androidTestImplementation libs.espresso.core
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.compose.ui.test.junit4
+    androidTestImplementation libs.room.testing
+    androidTestImplementation libs.truth
+    androidTestImplementation libs.coroutines.test
+    debugImplementation libs.compose.ui.tooling
+    debugImplementation libs.compose.ui.test.manifest
+}
+
+def debugMergedManifest = layout.buildDirectory.file(
+    'intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml'
+)
+
+def verifyDebugWorkManagerManifest = tasks.register('verifyDebugWorkManagerManifest') {
+    dependsOn 'processDebugMainManifest'
+    inputs.file(debugMergedManifest)
+
+    doLast {
+        def mergedManifest = inputs.files.singleFile
+        if (!mergedManifest.isFile()) {
+            throw new GradleException("Merged debug manifest not found: ${mergedManifest}")
+        }
+
+        def manifestText = mergedManifest.getText('UTF-8')
+        if (!manifestText.contains('android:name="androidx.startup.InitializationProvider"')) {
+            throw new GradleException('AndroidX Startup provider was removed from the merged manifest')
+        }
+        if (manifestText.contains('android:name="androidx.work.WorkManagerInitializer"')) {
+            throw new GradleException('WorkManager default initializer remains in the merged manifest')
+        }
+    }
+}
+
+tasks.named('check').configure {
+    dependsOn verifyDebugWorkManagerManifest
+}

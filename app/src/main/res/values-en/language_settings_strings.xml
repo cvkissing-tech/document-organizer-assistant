@@ -1,0 +1,43 @@
+<resources>
+    <!-- Language selection -->
+    <string name="destination_language_gate">Language setup</string>
+    <string name="destination_language">Language</string>
+    <string name="language_brand_name">文档整理助手 / Document Organizer</string>
+    <string name="language_title">选择语言 / Choose language</string>
+    <string name="language_subtitle">稍后可在设置中修改 / You can change this later in Settings.</string>
+    <string name="language_option_chinese">简体中文</string>
+    <string name="language_option_chinese_detail">Chinese interface</string>
+    <string name="language_option_english">English</string>
+    <string name="language_option_english_detail">English interface</string>
+    <string name="language_continue_chinese">继续</string>
+    <string name="language_continue_english">Continue</string>
+    <string name="language_selected_description">%1$s selected</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_scan_files">Scan &amp; files</string>
+    <string name="settings_scan_scope">Scan range</string>
+    <string name="settings_scope_all_documents">All documents</string>
+    <plurals name="settings_scope_selected_folders">
+        <item quantity="one">Selected folders · %1$d location</item>
+        <item quantity="other">Selected folders · %1$d locations</item>
+    </plurals>
+    <string name="settings_automatic_scan">Automatic scan</string>
+    <string name="settings_automatic_scan_detail">Check for new documents when the app opens</string>
+    <string name="settings_trash">Trash</string>
+    <plurals name="settings_trash_count">
+        <item quantity="one">%1$d file</item>
+        <item quantity="other">%1$d files</item>
+    </plurals>
+    <string name="settings_section_use_help">Use &amp; help</string>
+    <string name="settings_language">Display language</string>
+    <string name="settings_help">How to use</string>
+    <string name="settings_help_detail">Learn how to scan, review, and categorize</string>
+    <string name="settings_privacy">Privacy</string>
+    <string name="settings_privacy_detail">Files are processed only on this device</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_privacy_dialog_title">Files stay on this device</string>
+    <string name="settings_privacy_dialog_message">The app indexes common documents such as PDF, Word, Excel, and PowerPoint only on this device. It does not upload file contents or read photos and videos.</string>
+    <string name="settings_about_dialog_message">Version %1$s\nFind, review, and categorize documents in one place.</string>
+</resources>

@@ -1,0 +1,126 @@
+<resources>
+    <!-- 首次使用说明 -->
+    <string name="guide_close">关闭</string>
+    <string name="guide_skip">跳过</string>
+    <string name="guide_find_title">把散落的文档找出来</string>
+    <string name="guide_find_description">扫描手机中的 PDF、Word、Excel 和 PPT，\n集中查看，不改变原文件位置。</string>
+    <string name="guide_review_title">确认版本，再放心整理</string>
+    <string name="guide_review_description">名称相似由你选择当前版本；完全重复可直接清理，\n并可从回收站恢复。</string>
+    <string name="guide_next">下一步</string>
+    <string name="guide_finish">完成</string>
+    <string name="guide_start">开始使用</string>
+
+    <!-- 首次授权 -->
+    <string name="onboarding_title">选择文档扫描范围</string>
+    <string name="onboarding_description">只读取文档信息，不上传文件，\n也不会修改文件原位置。</string>
+    <string name="onboarding_scan_all">扫描全部文档</string>
+    <string name="onboarding_saving_folder">正在保存文件夹…</string>
+    <string name="onboarding_choose_folder">选择指定文件夹</string>
+    <string name="onboarding_choose_file">选择指定文件</string>
+    <string name="onboarding_choose_file_description">只导入你手动选择的文档</string>
+    <string name="onboarding_open_permission_failed">无法打开全部文件访问设置，已切换到指定文件夹模式</string>
+    <string name="onboarding_save_folder_failed">无法保存文件夹权限</string>
+
+    <!-- 扫描范围 -->
+    <string name="scan_sources_title">扫描范围</string>
+    <string name="scan_sources_all_documents">全部文档</string>
+    <string name="scan_sources_all_description">扫描设备中可访问的文档</string>
+    <string name="scan_sources_open_permission">点击前往系统授权</string>
+    <string name="scan_sources_selected_folders">指定文件夹</string>
+    <string name="scan_sources_choose_folder_description">选择一个文件夹并包含子文件夹</string>
+    <string name="scan_sources_selected_files">指定文件</string>
+    <string name="scan_sources_add_files_description">手动加入单个或多个文档</string>
+    <string name="scan_sources_authorized_folders">已授权文件夹</string>
+    <string name="scan_sources_add_folder">添加文件夹</string>
+    <string name="scan_sources_include_subfolders">允许扫描其中可访问的子文件夹</string>
+    <string name="scan_sources_folder_fallback">这个文件夹</string>
+    <string name="scan_sources_stop_title">停止扫描“%1$s”？</string>
+    <string name="scan_sources_stop_message">只会停止扫描该文件夹，不会删除、移动或修改真实文件。</string>
+    <string name="scan_sources_stop_confirm">停止扫描</string>
+    <string name="scan_sources_cancel">取消</string>
+    <string name="scan_sources_permission_expired">授权已失效</string>
+    <string name="scan_sources_subfolders">包含子文件夹</string>
+    <string name="scan_sources_subfolders_last_scan">包含子文件夹 · %1$s</string>
+    <string name="scan_sources_reauthorize">重新授权</string>
+    <string name="scan_sources_remove">移除</string>
+    <string name="scan_sources_need_full_access">需要先允许全部文档访问</string>
+    <string name="scan_sources_switched_all">已切换为全部文档</string>
+    <string name="scan_sources_switched_folders">已切换为指定文件夹</string>
+    <string name="scan_sources_removed">已停止扫描该文件夹，原文件没有改变</string>
+    <string name="scan_sources_remove_failed">无法移除扫描文件夹</string>
+    <string name="scan_sources_added_updating">已添加文件夹，应用正在后台更新</string>
+    <string name="scan_sources_added_scan_later">文件夹已添加，可稍后重新扫描</string>
+    <string name="scan_sources_add_failed">无法添加文件夹</string>
+    <string name="scan_sources_rescanning">正在后台重新扫描</string>
+    <string name="scan_sources_rescan_failed">暂时无法重新扫描</string>
+    <string name="scan_sources_reauthorized_updating">重新授权成功，应用正在后台更新</string>
+    <string name="scan_sources_reauthorized_scan_later">重新授权成功，可稍后重新扫描</string>
+    <string name="scan_sources_reauthorize_failed">重新授权失败</string>
+    <string name="scan_sources_permission_denied">未允许全部文档访问，仍使用指定文件夹</string>
+    <string name="scan_sources_all_updating">已切换为全部文档，应用正在后台更新</string>
+    <string name="scan_sources_all_scan_later">已切换为全部文档，可稍后重新扫描</string>
+    <string name="scan_sources_open_system_failed">无法打开系统授权页，请在系统设置中允许全部文档访问</string>
+
+    <!-- 导入 -->
+    <string name="import_title">保存文档</string>
+    <string name="import_loading">正在读取文档</string>
+    <plurals name="import_pending_count">
+        <item quantity="other">待保存 %1$d 份</item>
+    </plurals>
+    <plurals name="import_unsupported_count">
+        <item quantity="other">已忽略 %1$d 个不支持的文件</item>
+    </plurals>
+    <string name="import_inbox_location">保存位置：文档收件箱</string>
+    <string name="import_saving">正在保存…</string>
+    <string name="import_choose_location">选择保存位置</string>
+    <plurals name="import_save_count">
+        <item quantity="other">保存 %1$d 份文档</item>
+    </plurals>
+    <string name="import_original_kept">原文件不会被删除</string>
+    <string name="import_explanation">保存到文档收件箱，之后可在“待归类文档”中整理。</string>
+    <string name="import_item_saving">保存中</string>
+    <string name="import_result">已保存 %1$d 份 · 跳过 %2$d 份 · 失败 %3$d 份</string>
+
+    <!-- 回收站 -->
+    <string name="trash_delete_selected_title">永久删除所选文档？</string>
+    <plurals name="trash_delete_selected_message">
+        <item quantity="other">将永久删除 %1$d 份文档，删除后无法恢复。</item>
+    </plurals>
+    <string name="trash_delete_forever">永久删除</string>
+    <string name="trash_cancel">取消</string>
+    <string name="trash_clear_title">清空回收站？</string>
+    <plurals name="trash_clear_message">
+        <item quantity="other">将永久删除回收站中的 %1$d 份文档，删除后无法恢复。</item>
+    </plurals>
+    <string name="trash_clear">清空</string>
+    <string name="trash_restore_elsewhere">恢复到其他文件夹</string>
+    <string name="trash_restore_selected">恢复所选</string>
+    <string name="trash_select_all">全选</string>
+    <string name="trash_deselect_all">取消全选</string>
+    <string name="trash_retention">文件将在回收站保留 30 天</string>
+    <string name="trash_empty_title">回收站是空的</string>
+    <string name="trash_empty_message">删除的文档会在这里暂存，30 天内可以恢复。</string>
+    <string name="trash_restore">恢复</string>
+    <string name="trash_deleted_on">%1$s 删除</string>
+    <plurals name="trash_restored_count">
+        <item quantity="other">已恢复 %1$d 份文档</item>
+    </plurals>
+    <string name="trash_restored_with_failures">已恢复 %1$d 份，%2$d 份需要选择其他位置</string>
+    <string name="trash_deleted_with_failures">已永久删除 %1$d 份，%2$d 份未处理</string>
+    <string name="trash_operation_cancelled">已取消，文件没有改变</string>
+    <plurals name="trash_deleted_forever_count">
+        <item quantity="other">已永久删除 %1$d 份文档</item>
+    </plurals>
+
+    <!-- PDF 阅读器 -->
+    <string name="pdf_reader_title">PDF 阅读</string>
+    <string name="pdf_reader_share_failed">无法分享这份文件，请重新扫描或检查权限</string>
+    <string name="pdf_reader_page_description">PDF 第 %1$d 页</string>
+    <string name="pdf_reader_missing_file_detail">文件可能已在应用外被移动或删除。重新扫描只能更新索引，不能保证找回文件。</string>
+    <string name="pdf_reader_previous_page">上一页</string>
+    <string name="pdf_reader_next_page">下一页</string>
+    <string name="pdf_reader_page_count">%1$d / %2$d 页</string>
+    <string name="pdf_reader_zoom_hint">双指缩放 · 双击放大</string>
+    <string name="pdf_reader_open_failed">无法打开 PDF</string>
+    <string name="pdf_reader_render_failed">无法显示这一页</string>
+</resources>

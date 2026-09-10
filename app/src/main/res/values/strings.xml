@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">文档整理助手</string>
+
+    <!-- 通用操作与无障碍文案 -->
+    <string name="action_back">返回</string>
+    <string name="action_settings">设置</string>
+    <string name="action_got_it">知道了</string>
+    <string name="action_view_location">查看位置</string>
+    <string name="action_share_file">分享文件</string>
+    <string name="action_start_scan">开始扫描</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_continue">继续</string>
+    <string name="action_retry">重试</string>
+    <string name="action_rescan">重新扫描</string>
+    <string name="action_stop_scan">停止扫描</string>
+    <string name="action_view_all">查看全部</string>
+    <string name="action_start_review">开始确认</string>
+    <string name="action_view">查看</string>
+    <string name="action_organize">去整理</string>
+    <string name="action_choose_folder">选择文件夹</string>
+    <string name="action_more">更多操作</string>
+    <string name="home_scan_error_detail">扫描暂时未完成，请重试或检查文件访问权限</string>
+
+    <!-- 导航 -->
+    <string name="destination_first_use_guide">使用说明</string>
+    <string name="destination_help_guide">使用帮助</string>
+    <string name="destination_onboarding">首次授权</string>
+    <string name="destination_home">整理</string>
+    <string name="destination_documents">文档</string>
+    <string name="destination_categories">分类</string>
+    <string name="destination_related">相关文档</string>
+    <string name="destination_settings">设置</string>
+    <string name="destination_scan_sources">扫描位置</string>
+    <string name="destination_trash">回收站</string>
+    <string name="destination_import">导入文档</string>
+
+    <!-- 公共组件 -->
+    <plurals name="documents_selected_count">
+        <item quantity="other">已选择 %1$d 份文档</item>
+    </plurals>
+    <string name="document_format_generic">该格式</string>
+    <string name="document_location_title">文件位置</string>
+    <string name="document_open_error_title">暂时无法打开</string>
+    <string name="document_open_error_message">手机中没有能打开 %1$s 的应用。\n可以查看文件位置，或分享给其他应用。</string>
+    <string name="document_share_error">暂时无法分享这份文件</string>
+    <string name="related_empty_title">暂无待确认文档</string>
+    <string name="related_empty_detail">重新扫描后会自动更新</string>
+    <string name="related_stack_title">确认版本或清理副本</string>
+    <string name="related_stack_detail">名称相近需要判断；内容完全相同可以选择保留</string>
+    <string name="related_document_label">关联文档</string>
+    <string name="related_pending_label">待确认</string>
+    <plurals name="name_similar_groups_count">
+        <item quantity="other">名称相似 %1$d组</item>
+    </plurals>
+    <plurals name="exact_duplicate_groups_count">
+        <item quantity="other">完全重复 %1$d组</item>
+    </plurals>
+
+    <!-- 首页 -->
+    <string name="home_recent_opened">最近打开</string>
+    <string name="home_recent_empty">打开文档后会显示在这里</string>
+    <string name="home_confirm_documents">确认文档</string>
+    <string name="home_confirm_documents_detail">核对相似版本或重复副本</string>
+    <string name="home_name_similar">名称相似</string>
+    <string name="home_exact_duplicate">完全重复</string>
+    <string name="home_no_pending_review">暂无待确认</string>
+    <string name="home_all_classified">文档都已归类</string>
+    <string name="home_generic_document_type">文档</string>
+    <string name="home_scan_source_removed">扫描位置已移除</string>
+    <string name="home_scan_source_removed_detail">重新选择一个文件夹后，应用会继续整理文档。</string>
+    <plurals name="document_groups_count">
+        <item quantity="other">%1$d组</item>
+    </plurals>
+    <plurals name="home_unclassified_count">
+        <item quantity="other">%1$d份待归类</item>
+    </plurals>
+    <plurals name="home_scan_completed_snackbar">
+        <item quantity="other">扫描完成，已找到 %1$d 份文档</item>
+    </plurals>
+    <plurals name="home_scan_unread_files">
+        <item quantity="other">%1$d 个文件暂未读取，扫描会继续</item>
+    </plurals>
+
+    <!-- 首页扫描状态，由 ViewModel 以资源标识发送 -->
+    <string name="home_scan_initial_title">等待首次扫描</string>
+    <string name="home_scan_initial_detail">开始后会自动整理手机中的 PDF 和 Office 文档</string>
+    <string name="home_scan_queued">准备扫描文档</string>
+    <string name="home_scan_discovering">正在查找文档</string>
+    <string name="home_scan_indexing">正在收录文档</string>
+    <string name="home_scan_finalizing">正在完成整理</string>
+    <string name="home_scan_updated">文档已更新</string>
+    <string name="home_scan_paused">扫描已暂停</string>
+    <string name="home_scan_stopped">扫描已停止</string>
+    <string name="home_scan_failed">扫描遇到问题</string>
+    <string name="home_scan_cancelled_empty">没有删除已经整理的内容</string>
+    <string name="home_scan_selected_running">正在扫描指定文件夹</string>
+    <string name="home_scan_selected_needs_attention">部分文件夹需要处理</string>
+    <string name="home_scan_selected_updated">指定文件夹已更新</string>
+    <string name="home_scan_selected_waiting">等待扫描指定文件夹</string>
+    <string name="home_scan_authorized_only">只整理你已授权的文件夹</string>
+    <string name="home_scan_count_detail">已检查 %1$,d 个文件夹 · %2$,d 个文件 · 找到 %3$,d 份文档</string>
+    <string name="home_relation_exact_duplicates">正在核对重复文件</string>
+    <string name="home_relation_name_candidates">正在查找相似版本</string>
+    <string name="home_relation_content_verification">正在核对文档内容</string>
+    <string name="home_relation_saving">正在完成整理</string>
+    <string name="home_relation_retry_later">版本核对稍后重试</string>
+    <string name="home_relation_status_description">%1$s，已核对 %2$d，候选 %3$d，未完成 %4$d</string>
+    <plurals name="home_scan_completed_detail">
+        <item quantity="other">上次扫描 %1$s · 找到 %2$d 份文档</item>
+    </plurals>
+    <plurals name="home_scan_cancelled_kept">
+        <item quantity="other">已保留找到的 %1$d 份文档</item>
+    </plurals>
+    <plurals name="home_scan_documents_found">
+        <item quantity="other">已找到 %1$d 份文档</item>
+    </plurals>
+    <plurals name="home_scan_folders_need_authorization">
+        <item quantity="other">%1$d 个文件夹需要重新授权</item>
+    </plurals>
+    <string name="home_receipt_title">整理完成</string>
+    <string name="home_receipt_documents_ready">文档已找到</string>
+    <string name="home_receipt_discovered">发现文档</string>
+    <string name="home_receipt_review">待确认</string>
+    <string name="home_receipt_unclassified">待归类</string>
+    <string name="home_receipt_step_description">%1$s，%2$d</string>
+</resources>

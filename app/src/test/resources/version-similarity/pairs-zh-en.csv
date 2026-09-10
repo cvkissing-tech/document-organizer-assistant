@@ -1,0 +1,601 @@
+id,split,label,nameA,nameB,extensionA,extensionB,parentRelation,modifiedGapHours,sizeRatio,contentSimilarity,reason
+1,ENGINEERING_CALIBRATION,VERSION,caseaaa-毕业实习报告_草稿.doc,caseaaa-毕业实习报告_最终版.docx,doc,docx,DIFFERENT,1,1.00,0.78,version:marker-0-subject-0
+2,ENGINEERING_CALIBRATION,VERSION,caseaab-machine learning project-v1.docx,caseaab-machine learning project-v2.docx,docx,docx,SAME,6,1.07,,version:marker-1-subject-1
+3,ENGINEERING_REGRESSION,VERSION,caseaac-新能源项目书 v1.pdf,caseaac-新能源项目书 v2.pdf,pdf,pdf,SAME,18,1.14,0.80,version:marker-2-subject-2
+4,ENGINEERING_CALIBRATION,VERSION,caseaad-会计实务总结__第一版.ppt,caseaad-会计实务总结__第二版.pptx,ppt,pptx,SAME,36,1.21,0.91,version:marker-3-subject-3
+5,ENGINEERING_CALIBRATION,VERSION,caseaae-financial analysis_draft.xls,caseaae-financial analysis_final.xlsx,xls,xlsx,SAME,96,1.03,0.82,version:marker-4-subject-4
+6,ENGINEERING_REGRESSION,VERSION,caseaaf-校园招聘策划-张老师修改版.doc,caseaaf-校园招聘策划-最新版.docx,doc,docx,SAME,,1.10,0.93,version:marker-5-subject-5
+7,ENGINEERING_CALIBRATION,VERSION,caseaag-移动应用设计 批注版.docx,caseaag-移动应用设计 终稿.docx,docx,docx,SAME,600,1.17,0.84,version:marker-6-subject-6
+8,ENGINEERING_CALIBRATION,VERSION,caseaah-calculus review__rev1.pdf,caseaah-calculus review__rev2.pdf,pdf,pdf,DIFFERENT,1,1.24,0.95,version:marker-7-subject-7
+9,ENGINEERING_REGRESSION,VERSION,caseaai-建筑设计说明_草稿.ppt,caseaai-建筑设计说明_最终版.pptx,ppt,pptx,SAME,6,,0.86,version:marker-8-subject-8
+10,ENGINEERING_CALIBRATION,VERSION,caseaaj-机械制造实训-初稿.xls,caseaaj-机械制造实训-修订版.xlsx,xls,xlsx,SAME,18,1.13,0.97,version:marker-9-subject-9
+11,ENGINEERING_CALIBRATION,VERSION,caseaak-mobile app design copy.doc,caseaak-mobile app design revised.docx,doc,docx,SAME,36,1.20,0.88,version:marker-10-subject-10
+12,ENGINEERING_REGRESSION,VERSION,caseaal-国际贸易案例__第一版.docx,caseaal-国际贸易案例__第二版.docx,docx,docx,SAME,96,1.02,0.79,version:marker-11-subject-11
+13,ENGINEERING_CALIBRATION,VERSION,caseaam-供应链分析_副本.pdf,caseaam-供应链分析_定稿.pdf,pdf,pdf,SAME,240,1.09,0.90,version:marker-0-subject-12
+14,ENGINEERING_CALIBRATION,VERSION,caseaan-environment survey-v1.ppt,caseaan-environment survey-v2.pptx,ppt,pptx,SAME,600,1.16,0.81,version:marker-1-subject-13
+15,ENGINEERING_REGRESSION,VERSION,caseaao-大学英语展示 批注版.xls,caseaao-大学英语展示 终稿.xlsx,xls,xlsx,DIFFERENT,1,1.23,0.92,version:marker-2-subject-14
+16,ENGINEERING_CALIBRATION,VERSION,caseaap-人力资源方案__20260901.doc,caseaap-人力资源方案__20260903.docx,doc,docx,SAME,6,1.05,0.83,version:marker-3-subject-15
+17,ENGINEERING_CALIBRATION,VERSION,caseaaq-accounting practice_draft.docx,caseaaq-accounting practice_final.docx,docx,docx,SAME,18,1.12,0.94,version:marker-4-subject-16
+18,ENGINEERING_REGRESSION,VERSION,caseaar-数据库实验总结-初稿.pdf,caseaar-数据库实验总结-修订版.pdf,pdf,pdf,SAME,36,1.19,0.85,version:marker-5-subject-17
+19,ENGINEERING_CALIBRATION,VERSION,caseaas-高等数学复习 v1.ppt,caseaas-高等数学复习 v2.pptx,ppt,pptx,SAME,96,1.01,,version:marker-6-subject-18
+20,ENGINEERING_CALIBRATION,VERSION,caseaat-user research report__rev1.xls,caseaat-user research report__rev2.xlsx,xls,xlsx,SAME,240,1.08,0.87,version:marker-7-subject-19
+21,ENGINEERING_REGRESSION,VERSION,caseaau-产品运营复盘_副本.doc,caseaau-产品运营复盘_定稿.docx,doc,docx,SAME,600,1.15,0.78,version:marker-8-subject-20
+22,ENGINEERING_CALIBRATION,VERSION,caseaav-人工智能课程设计-张老师修改版.docx,caseaav-人工智能课程设计-最新版.docx,docx,docx,DIFFERENT,1,1.22,0.89,version:marker-9-subject-21
+23,ENGINEERING_CALIBRATION,VERSION,caseaaw-public policy survey copy.pdf,caseaaw-public policy survey revised.pdf,pdf,pdf,SAME,6,1.04,0.80,version:marker-10-subject-22
+24,ENGINEERING_REGRESSION,VERSION,caseaax-物流管理分析__20260901.ppt,caseaax-物流管理分析__20260903.pptx,ppt,pptx,SAME,18,1.11,0.91,version:marker-11-subject-23
+25,ENGINEERING_CALIBRATION,VERSION,caseaay-法律基础论文_草稿.xls,caseaay-法律基础论文_最终版.xlsx,xls,xlsx,SAME,36,1.18,0.82,version:marker-0-subject-24
+26,ENGINEERING_CALIBRATION,VERSION,caseaaz-market research plan-v1.doc,caseaaz-market research plan-v2.docx,doc,docx,SAME,96,1.00,0.93,version:marker-1-subject-25
+27,ENGINEERING_REGRESSION,VERSION,caseaba-电子商务案例 v1.docx,caseaba-电子商务案例 v2.docx,docx,docx,SAME,240,1.07,0.84,version:marker-2-subject-26
+28,ENGINEERING_CALIBRATION,VERSION,caseabb-新能源项目书__第一版.pdf,caseabb-新能源项目书__第二版.pdf,pdf,pdf,SAME,600,1.14,0.95,version:marker-3-subject-27
+29,ENGINEERING_CALIBRATION,VERSION,caseabc-ecommerce case study_draft.ppt,caseabc-ecommerce case study_final.pptx,ppt,pptx,DIFFERENT,,1.21,0.86,version:marker-4-subject-28
+30,ENGINEERING_REGRESSION,VERSION,caseabd-医学统计报告-张老师修改版.xls,caseabd-医学统计报告-最新版.xlsx,xls,xlsx,SAME,6,1.03,0.97,version:marker-5-subject-29
+31,ENGINEERING_CALIBRATION,VERSION,caseabe-校园招聘策划 批注版.doc,caseabe-校园招聘策划 终稿.docx,doc,docx,SAME,18,1.10,0.88,version:marker-6-subject-0
+32,ENGINEERING_CALIBRATION,VERSION,caseabf-network design__rev1.docx,caseabf-network design__rev2.docx,docx,docx,SAME,36,1.17,0.79,version:marker-7-subject-1
+33,ENGINEERING_REGRESSION,VERSION,caseabg-工程测量记录_草稿.pdf,caseabg-工程测量记录_最终版.pdf,pdf,pdf,SAME,96,1.24,0.90,version:marker-8-subject-2
+34,ENGINEERING_CALIBRATION,VERSION,caseabh-建筑设计说明-初稿.ppt,caseabh-建筑设计说明-修订版.pptx,ppt,pptx,SAME,240,1.06,0.81,version:marker-9-subject-3
+35,ENGINEERING_CALIBRATION,VERSION,caseabi-logistics analysis copy.xls,caseabi-logistics analysis revised.xlsx,xls,xlsx,SAME,600,1.13,0.92,version:marker-10-subject-4
+36,ENGINEERING_REGRESSION,VERSION,caseabj-数据结构课程作业__第一版.doc,caseabj-数据结构课程作业__第二版.docx,doc,docx,DIFFERENT,1,1.20,0.83,version:marker-11-subject-5
+37,ENGINEERING_CALIBRATION,VERSION,caseabk-国际贸易案例_副本.docx,caseabk-国际贸易案例_定稿.docx,docx,docx,SAME,6,1.02,0.94,version:marker-0-subject-6
+38,ENGINEERING_CALIBRATION,VERSION,caseabl-international trade case-v1.pdf,caseabl-international trade case-v2.pdf,pdf,pdf,SAME,18,,0.85,version:marker-1-subject-7
+39,ENGINEERING_REGRESSION,VERSION,caseabm-市场营销调研 批注版.ppt,caseabm-市场营销调研 终稿.pptx,ppt,pptx,SAME,36,1.16,0.96,version:marker-2-subject-8
+40,ENGINEERING_CALIBRATION,VERSION,caseabn-大学英语展示__20260901.xls,caseabn-大学英语展示__20260903.xlsx,xls,xlsx,SAME,96,1.23,0.87,version:marker-3-subject-9
+41,ENGINEERING_CALIBRATION,VERSION,caseabo-tourism strategy_draft.doc,caseabo-tourism strategy_final.docx,doc,docx,SAME,240,1.05,0.78,version:marker-4-subject-10
+42,ENGINEERING_REGRESSION,VERSION,caseabp-用户研究报告-初稿.docx,caseabp-用户研究报告-修订版.docx,docx,docx,SAME,600,1.12,0.89,version:marker-5-subject-11
+43,ENGINEERING_CALIBRATION,VERSION,caseabq-数据库实验总结 v1.pdf,caseabq-数据库实验总结 v2.pdf,pdf,pdf,DIFFERENT,1,1.19,0.80,version:marker-6-subject-12
+44,ENGINEERING_CALIBRATION,VERSION,caseabr-architecture brief__rev1.ppt,caseabr-architecture brief__rev2.pptx,ppt,pptx,SAME,6,1.01,0.91,version:marker-7-subject-13
+45,ENGINEERING_REGRESSION,VERSION,caseabs-数字媒体策划_副本.xls,caseabs-数字媒体策划_定稿.xlsx,xls,xlsx,SAME,18,1.08,0.82,version:marker-8-subject-14
+46,ENGINEERING_CALIBRATION,VERSION,caseabt-产品运营复盘-张老师修改版.doc,caseabt-产品运营复盘-最新版.docx,doc,docx,SAME,36,1.15,0.93,version:marker-9-subject-15
+47,ENGINEERING_CALIBRATION,VERSION,caseabu-machine learning project copy.docx,caseabu-machine learning project revised.docx,docx,docx,SAME,96,1.22,0.84,version:marker-10-subject-16
+48,ENGINEERING_REGRESSION,VERSION,caseabv-软件工程需求__20260901.pdf,caseabv-软件工程需求__20260903.pdf,pdf,pdf,SAME,240,1.04,0.95,version:marker-11-subject-17
+49,ENGINEERING_CALIBRATION,VERSION,caseabw-物流管理分析_草稿.ppt,caseabw-物流管理分析_最终版.pptx,ppt,pptx,SAME,600,1.11,0.86,version:marker-0-subject-18
+50,ENGINEERING_CALIBRATION,VERSION,caseabx-financial analysis-v1.xls,caseabx-financial analysis-v2.xlsx,xls,xlsx,DIFFERENT,1,1.18,0.97,version:marker-1-subject-19
+51,ENGINEERING_REGRESSION,VERSION,caseaby-毕业实习报告 v1.doc,caseaby-毕业实习报告 v2.docx,doc,docx,SAME,6,1.00,0.88,version:marker-2-subject-20
+52,ENGINEERING_CALIBRATION,VERSION,caseabz-电子商务案例__第一版.docx,caseabz-电子商务案例__第二版.docx,docx,docx,SAME,,1.07,0.79,version:marker-3-subject-21
+53,ENGINEERING_CALIBRATION,VERSION,caseaca-calculus review_draft.pdf,caseaca-calculus review_final.pdf,pdf,pdf,SAME,36,1.14,,version:marker-4-subject-22
+54,ENGINEERING_REGRESSION,VERSION,caseacb-会计实务总结-张老师修改版.ppt,caseacb-会计实务总结-最新版.pptx,ppt,pptx,SAME,96,1.21,0.81,version:marker-5-subject-23
+55,ENGINEERING_CALIBRATION,VERSION,caseacc-医学统计报告 批注版.xls,caseacc-医学统计报告 终稿.xlsx,xls,xlsx,SAME,240,1.03,0.92,version:marker-6-subject-24
+56,ENGINEERING_CALIBRATION,VERSION,caseacd-mobile app design__rev1.doc,caseacd-mobile app design__rev2.docx,doc,docx,SAME,600,1.10,0.83,version:marker-7-subject-25
+57,ENGINEERING_REGRESSION,VERSION,caseace-移动应用设计_草稿.docx,caseace-移动应用设计_最终版.docx,docx,docx,DIFFERENT,1,1.17,0.94,version:marker-8-subject-26
+58,ENGINEERING_CALIBRATION,VERSION,caseacf-工程测量记录-初稿.pdf,caseacf-工程测量记录-修订版.pdf,pdf,pdf,SAME,6,1.24,0.85,version:marker-9-subject-27
+59,ENGINEERING_CALIBRATION,VERSION,caseacg-environment survey copy.ppt,caseacg-environment survey revised.pptx,ppt,pptx,SAME,18,1.06,0.96,version:marker-10-subject-28
+60,ENGINEERING_REGRESSION,VERSION,caseach-机械制造实训__第一版.xls,caseach-机械制造实训__第二版.xlsx,xls,xlsx,SAME,36,1.13,0.87,version:marker-11-subject-29
+61,ENGINEERING_CALIBRATION,VERSION,caseaci-数据结构课程作业_副本.doc,caseaci-数据结构课程作业_定稿.docx,doc,docx,SAME,96,1.20,0.78,version:marker-0-subject-0
+62,ENGINEERING_CALIBRATION,VERSION,caseacj-accounting practice-v1.docx,caseacj-accounting practice-v2.docx,docx,docx,SAME,240,1.02,0.89,version:marker-1-subject-1
+63,ENGINEERING_REGRESSION,VERSION,caseack-供应链分析 批注版.pdf,caseack-供应链分析 终稿.pdf,pdf,pdf,SAME,600,1.09,0.80,version:marker-2-subject-2
+64,ENGINEERING_CALIBRATION,VERSION,caseacl-市场营销调研__20260901.ppt,caseacl-市场营销调研__20260903.pptx,ppt,pptx,DIFFERENT,1,1.16,0.91,version:marker-3-subject-3
+65,ENGINEERING_CALIBRATION,VERSION,caseacm-user research report_draft.xls,caseacm-user research report_final.xlsx,xls,xlsx,SAME,6,1.23,0.82,version:marker-4-subject-4
+66,ENGINEERING_REGRESSION,VERSION,caseacn-人力资源方案-初稿.doc,caseacn-人力资源方案-修订版.docx,doc,docx,SAME,18,1.05,0.93,version:marker-5-subject-5
+67,ENGINEERING_CALIBRATION,VERSION,caseaco-用户研究报告 v1.docx,caseaco-用户研究报告 v2.docx,docx,docx,SAME,36,,0.84,version:marker-6-subject-6
+68,ENGINEERING_CALIBRATION,VERSION,caseacp-public policy survey__rev1.pdf,caseacp-public policy survey__rev2.pdf,pdf,pdf,SAME,96,1.19,0.95,version:marker-7-subject-7
+69,ENGINEERING_REGRESSION,VERSION,caseacq-高等数学复习_副本.ppt,caseacq-高等数学复习_定稿.pptx,ppt,pptx,SAME,240,1.01,0.86,version:marker-8-subject-8
+70,ENGINEERING_CALIBRATION,VERSION,caseacr-数字媒体策划-张老师修改版.xls,caseacr-数字媒体策划-最新版.xlsx,xls,xlsx,SAME,600,1.08,,version:marker-9-subject-9
+71,ENGINEERING_CALIBRATION,VERSION,caseacs-market research plan copy.doc,caseacs-market research plan revised.docx,doc,docx,DIFFERENT,1,1.15,0.88,version:marker-10-subject-10
+72,ENGINEERING_REGRESSION,VERSION,caseact-人工智能课程设计__20260901.docx,caseact-人工智能课程设计__20260903.docx,docx,docx,SAME,6,1.22,0.79,version:marker-11-subject-11
+73,ENGINEERING_CALIBRATION,VERSION,caseacu-软件工程需求_草稿.pdf,caseacu-软件工程需求_最终版.pdf,pdf,pdf,SAME,18,1.04,0.90,version:marker-0-subject-12
+74,ENGINEERING_CALIBRATION,VERSION,caseacv-ecommerce case study-v1.ppt,caseacv-ecommerce case study-v2.pptx,ppt,pptx,SAME,36,1.11,0.81,version:marker-1-subject-13
+75,ENGINEERING_REGRESSION,VERSION,caseacw-法律基础论文 v1.xls,caseacw-法律基础论文 v2.xlsx,xls,xlsx,SAME,,1.18,0.92,version:marker-2-subject-14
+76,ENGINEERING_CALIBRATION,VERSION,caseacx-毕业实习报告__第一版.doc,caseacx-毕业实习报告__第二版.docx,doc,docx,SAME,240,1.00,0.83,version:marker-3-subject-15
+77,ENGINEERING_CALIBRATION,VERSION,caseacy-network design_draft.docx,caseacy-network design_final.docx,docx,docx,SAME,600,1.07,0.94,version:marker-4-subject-16
+78,ENGINEERING_REGRESSION,VERSION,caseacz-新能源项目书-张老师修改版.pdf,caseacz-新能源项目书-最新版.pdf,pdf,pdf,DIFFERENT,1,1.14,0.85,version:marker-5-subject-17
+79,ENGINEERING_CALIBRATION,VERSION,caseada-会计实务总结 批注版.ppt,caseada-会计实务总结 终稿.pptx,ppt,pptx,SAME,6,1.21,0.96,version:marker-6-subject-18
+80,ENGINEERING_CALIBRATION,VERSION,caseadb-logistics analysis__rev1.xls,caseadb-logistics analysis__rev2.xlsx,xls,xlsx,SAME,18,1.03,0.87,version:marker-7-subject-19
+81,ENGINEERING_REGRESSION,VERSION,caseadc-校园招聘策划_草稿.doc,caseadc-校园招聘策划_最终版.docx,doc,docx,SAME,36,1.10,0.78,version:marker-8-subject-20
+82,ENGINEERING_CALIBRATION,VERSION,caseadd-移动应用设计-初稿.docx,caseadd-移动应用设计-修订版.docx,docx,docx,SAME,96,1.17,0.89,version:marker-9-subject-21
+83,ENGINEERING_CALIBRATION,VERSION,caseade-international trade case copy.pdf,caseade-international trade case revised.pdf,pdf,pdf,SAME,240,1.24,0.80,version:marker-10-subject-22
+84,ENGINEERING_REGRESSION,VERSION,caseadf-建筑设计说明__第一版.ppt,caseadf-建筑设计说明__第二版.pptx,ppt,pptx,SAME,600,1.06,0.91,version:marker-11-subject-23
+85,ENGINEERING_CALIBRATION,VERSION,caseadg-机械制造实训_副本.xls,caseadg-机械制造实训_定稿.xlsx,xls,xlsx,DIFFERENT,1,1.13,0.82,version:marker-0-subject-24
+86,ENGINEERING_CALIBRATION,VERSION,caseadh-tourism strategy-v1.doc,caseadh-tourism strategy-v2.docx,doc,docx,SAME,6,1.20,0.93,version:marker-1-subject-25
+87,ENGINEERING_REGRESSION,VERSION,caseadi-国际贸易案例 批注版.docx,caseadi-国际贸易案例 终稿.docx,docx,docx,SAME,18,1.02,,version:marker-2-subject-26
+88,ENGINEERING_CALIBRATION,VERSION,caseadj-供应链分析__20260901.pdf,caseadj-供应链分析__20260903.pdf,pdf,pdf,SAME,36,1.09,0.95,version:marker-3-subject-27
+89,ENGINEERING_CALIBRATION,VERSION,caseadk-architecture brief_draft.ppt,caseadk-architecture brief_final.pptx,ppt,pptx,SAME,96,1.16,0.86,version:marker-4-subject-28
+90,ENGINEERING_REGRESSION,VERSION,caseadl-大学英语展示-初稿.xls,caseadl-大学英语展示-修订版.xlsx,xls,xlsx,SAME,240,1.23,0.97,version:marker-5-subject-29
+91,ENGINEERING_CALIBRATION,VERSION,caseadm-人力资源方案 v1.doc,caseadm-人力资源方案 v2.docx,doc,docx,SAME,600,1.05,0.88,version:marker-6-subject-0
+92,ENGINEERING_CALIBRATION,VERSION,caseadn-machine learning project__rev1.docx,caseadn-machine learning project__rev2.docx,docx,docx,DIFFERENT,1,1.12,0.79,version:marker-7-subject-1
+93,ENGINEERING_REGRESSION,VERSION,caseado-数据库实验总结_副本.pdf,caseado-数据库实验总结_定稿.pdf,pdf,pdf,SAME,6,1.19,0.90,version:marker-8-subject-2
+94,ENGINEERING_CALIBRATION,VERSION,caseadp-高等数学复习-张老师修改版.ppt,caseadp-高等数学复习-最新版.pptx,ppt,pptx,SAME,18,1.01,0.81,version:marker-9-subject-3
+95,ENGINEERING_CALIBRATION,VERSION,caseadq-financial analysis copy.xls,caseadq-financial analysis revised.xlsx,xls,xlsx,SAME,36,1.08,0.92,version:marker-10-subject-4
+96,ENGINEERING_REGRESSION,VERSION,caseadr-产品运营复盘__20260901.doc,caseadr-产品运营复盘__20260903.docx,doc,docx,SAME,96,,0.83,version:marker-11-subject-5
+97,ENGINEERING_CALIBRATION,VERSION,caseads-人工智能课程设计_草稿.docx,caseads-人工智能课程设计_最终版.docx,docx,docx,SAME,240,1.22,0.94,version:marker-0-subject-6
+98,ENGINEERING_CALIBRATION,VERSION,caseadt-calculus review-v1.pdf,caseadt-calculus review-v2.pdf,pdf,pdf,SAME,,1.04,0.85,version:marker-1-subject-7
+99,ENGINEERING_REGRESSION,VERSION,caseadu-物流管理分析 v1.ppt,caseadu-物流管理分析 v2.pptx,ppt,pptx,DIFFERENT,1,1.11,0.96,version:marker-2-subject-8
+100,ENGINEERING_CALIBRATION,VERSION,caseadv-法律基础论文__第一版.xls,caseadv-法律基础论文__第二版.xlsx,xls,xlsx,SAME,6,1.18,0.87,version:marker-3-subject-9
+101,ENGINEERING_CALIBRATION,VERSION,caseadw-mobile app design_draft.doc,caseadw-mobile app design_final.docx,doc,docx,SAME,18,1.00,0.78,version:marker-4-subject-10
+102,ENGINEERING_REGRESSION,VERSION,caseadx-电子商务案例-张老师修改版.docx,caseadx-电子商务案例-最新版.docx,docx,docx,SAME,36,1.07,0.89,version:marker-5-subject-11
+103,ENGINEERING_CALIBRATION,VERSION,caseady-新能源项目书 批注版.pdf,caseady-新能源项目书 终稿.pdf,pdf,pdf,SAME,96,1.14,0.80,version:marker-6-subject-12
+104,ENGINEERING_CALIBRATION,VERSION,caseadz-environment survey__rev1.ppt,caseadz-environment survey__rev2.pptx,ppt,pptx,SAME,240,1.21,,version:marker-7-subject-13
+105,ENGINEERING_REGRESSION,VERSION,caseaea-医学统计报告_草稿.xls,caseaea-医学统计报告_最终版.xlsx,xls,xlsx,SAME,600,1.03,0.82,version:marker-8-subject-14
+106,ENGINEERING_CALIBRATION,VERSION,caseaeb-校园招聘策划-初稿.doc,caseaeb-校园招聘策划-修订版.docx,doc,docx,DIFFERENT,1,1.10,0.93,version:marker-9-subject-15
+107,ENGINEERING_CALIBRATION,VERSION,caseaec-accounting practice copy.docx,caseaec-accounting practice revised.docx,docx,docx,SAME,6,1.17,0.84,version:marker-10-subject-16
+108,ENGINEERING_REGRESSION,VERSION,caseaed-工程测量记录__第一版.pdf,caseaed-工程测量记录__第二版.pdf,pdf,pdf,SAME,18,1.24,0.95,version:marker-11-subject-17
+109,ENGINEERING_CALIBRATION,VERSION,caseaee-建筑设计说明_副本.ppt,caseaee-建筑设计说明_定稿.pptx,ppt,pptx,SAME,36,1.06,0.86,version:marker-0-subject-18
+110,ENGINEERING_CALIBRATION,VERSION,caseaef-user research report-v1.xls,caseaef-user research report-v2.xlsx,xls,xlsx,SAME,96,1.13,0.97,version:marker-1-subject-19
+111,ENGINEERING_REGRESSION,VERSION,caseaeg-数据结构课程作业 批注版.doc,caseaeg-数据结构课程作业 终稿.docx,doc,docx,SAME,240,1.20,0.88,version:marker-2-subject-20
+112,ENGINEERING_CALIBRATION,VERSION,caseaeh-国际贸易案例__20260901.docx,caseaeh-国际贸易案例__20260903.docx,docx,docx,SAME,600,1.02,0.79,version:marker-3-subject-21
+113,ENGINEERING_CALIBRATION,VERSION,caseaei-public policy survey_draft.pdf,caseaei-public policy survey_final.pdf,pdf,pdf,DIFFERENT,1,1.09,0.90,version:marker-4-subject-22
+114,ENGINEERING_REGRESSION,VERSION,caseaej-市场营销调研-初稿.ppt,caseaej-市场营销调研-修订版.pptx,ppt,pptx,SAME,6,1.16,0.81,version:marker-5-subject-23
+115,ENGINEERING_CALIBRATION,VERSION,caseaek-大学英语展示 v1.xls,caseaek-大学英语展示 v2.xlsx,xls,xlsx,SAME,18,1.23,0.92,version:marker-6-subject-24
+116,ENGINEERING_CALIBRATION,VERSION,caseael-market research plan__rev1.doc,caseael-market research plan__rev2.docx,doc,docx,SAME,36,1.05,0.83,version:marker-7-subject-25
+117,ENGINEERING_REGRESSION,VERSION,caseaem-用户研究报告_副本.docx,caseaem-用户研究报告_定稿.docx,docx,docx,SAME,96,1.12,0.94,version:marker-8-subject-26
+118,ENGINEERING_CALIBRATION,VERSION,caseaen-数据库实验总结-张老师修改版.pdf,caseaen-数据库实验总结-最新版.pdf,pdf,pdf,SAME,240,1.19,0.85,version:marker-9-subject-27
+119,ENGINEERING_CALIBRATION,VERSION,caseaeo-ecommerce case study copy.ppt,caseaeo-ecommerce case study revised.pptx,ppt,pptx,SAME,600,1.01,0.96,version:marker-10-subject-28
+120,ENGINEERING_REGRESSION,VERSION,caseaep-数字媒体策划__20260901.xls,caseaep-数字媒体策划__20260903.xlsx,xls,xlsx,DIFFERENT,1,1.08,0.87,version:marker-11-subject-29
+121,ENGINEERING_CALIBRATION,VERSION,caseaeq-产品运营复盘_草稿.doc,caseaeq-产品运营复盘_最终版.docx,doc,docx,SAME,,1.15,,version:marker-0-subject-0
+122,ENGINEERING_CALIBRATION,VERSION,caseaer-network design-v1.docx,caseaer-network design-v2.docx,docx,docx,SAME,18,1.22,0.89,version:marker-1-subject-1
+123,ENGINEERING_REGRESSION,VERSION,caseaes-软件工程需求 v1.pdf,caseaes-软件工程需求 v2.pdf,pdf,pdf,SAME,36,1.04,0.80,version:marker-2-subject-2
+124,ENGINEERING_CALIBRATION,VERSION,caseaet-物流管理分析__第一版.ppt,caseaet-物流管理分析__第二版.pptx,ppt,pptx,SAME,96,1.11,0.91,version:marker-3-subject-3
+125,ENGINEERING_CALIBRATION,VERSION,caseaeu-logistics analysis_draft.xls,caseaeu-logistics analysis_final.xlsx,xls,xlsx,SAME,240,,0.82,version:marker-4-subject-4
+126,ENGINEERING_REGRESSION,VERSION,caseaev-毕业实习报告-张老师修改版.doc,caseaev-毕业实习报告-最新版.docx,doc,docx,SAME,600,1.00,0.93,version:marker-5-subject-5
+127,ENGINEERING_CALIBRATION,VERSION,caseaew-电子商务案例 批注版.docx,caseaew-电子商务案例 终稿.docx,docx,docx,DIFFERENT,1,1.07,0.84,version:marker-6-subject-6
+128,ENGINEERING_CALIBRATION,VERSION,caseaex-international trade case__rev1.pdf,caseaex-international trade case__rev2.pdf,pdf,pdf,SAME,6,1.14,0.95,version:marker-7-subject-7
+129,ENGINEERING_REGRESSION,VERSION,caseaey-会计实务总结_草稿.ppt,caseaey-会计实务总结_最终版.pptx,ppt,pptx,SAME,18,1.21,0.86,version:marker-8-subject-8
+130,ENGINEERING_CALIBRATION,VERSION,caseaez-医学统计报告-初稿.xls,caseaez-医学统计报告-修订版.xlsx,xls,xlsx,SAME,36,1.03,0.97,version:marker-9-subject-9
+131,ENGINEERING_CALIBRATION,VERSION,caseafa-tourism strategy copy.doc,caseafa-tourism strategy revised.docx,doc,docx,SAME,96,1.10,0.88,version:marker-10-subject-10
+132,ENGINEERING_REGRESSION,VERSION,caseafb-移动应用设计__第一版.docx,caseafb-移动应用设计__第二版.docx,docx,docx,SAME,240,1.17,0.79,version:marker-11-subject-11
+133,ENGINEERING_CALIBRATION,VERSION,caseafc-工程测量记录_副本.pdf,caseafc-工程测量记录_定稿.pdf,pdf,pdf,SAME,600,1.24,0.90,version:marker-0-subject-12
+134,ENGINEERING_CALIBRATION,VERSION,caseafd-architecture brief-v1.ppt,caseafd-architecture brief-v2.pptx,ppt,pptx,DIFFERENT,1,1.06,0.81,version:marker-1-subject-13
+135,ENGINEERING_REGRESSION,VERSION,caseafe-机械制造实训 批注版.xls,caseafe-机械制造实训 终稿.xlsx,xls,xlsx,SAME,6,1.13,0.92,version:marker-2-subject-14
+136,ENGINEERING_CALIBRATION,VERSION,caseaff-数据结构课程作业__20260901.doc,caseaff-数据结构课程作业__20260903.docx,doc,docx,SAME,18,1.20,0.83,version:marker-3-subject-15
+137,ENGINEERING_CALIBRATION,VERSION,caseafg-machine learning project_draft.docx,caseafg-machine learning project_final.docx,docx,docx,SAME,36,1.02,0.94,version:marker-4-subject-16
+138,ENGINEERING_REGRESSION,VERSION,caseafh-供应链分析-初稿.pdf,caseafh-供应链分析-修订版.pdf,pdf,pdf,SAME,96,1.09,,version:marker-5-subject-17
+139,ENGINEERING_CALIBRATION,VERSION,caseafi-市场营销调研 v1.ppt,caseafi-市场营销调研 v2.pptx,ppt,pptx,SAME,240,1.16,0.96,version:marker-6-subject-18
+140,ENGINEERING_CALIBRATION,VERSION,caseafj-financial analysis__rev1.xls,caseafj-financial analysis__rev2.xlsx,xls,xlsx,SAME,600,1.23,0.87,version:marker-7-subject-19
+141,ENGINEERING_REGRESSION,VERSION,caseafk-人力资源方案_副本.doc,caseafk-人力资源方案_定稿.docx,doc,docx,DIFFERENT,1,1.05,0.78,version:marker-8-subject-20
+142,ENGINEERING_CALIBRATION,VERSION,caseafl-用户研究报告-张老师修改版.docx,caseafl-用户研究报告-最新版.docx,docx,docx,SAME,6,1.12,0.89,version:marker-9-subject-21
+143,ENGINEERING_CALIBRATION,VERSION,caseafm-calculus review copy.pdf,caseafm-calculus review revised.pdf,pdf,pdf,SAME,18,1.19,0.80,version:marker-10-subject-22
+144,ENGINEERING_REGRESSION,VERSION,caseafn-高等数学复习__20260901.ppt,caseafn-高等数学复习__20260903.pptx,ppt,pptx,SAME,,1.01,0.91,version:marker-11-subject-23
+145,ENGINEERING_CALIBRATION,VERSION,caseafo-数字媒体策划_草稿.xls,caseafo-数字媒体策划_最终版.xlsx,xls,xlsx,SAME,96,1.08,0.82,version:marker-0-subject-24
+146,ENGINEERING_CALIBRATION,VERSION,caseafp-mobile app design-v1.doc,caseafp-mobile app design-v2.docx,doc,docx,SAME,240,1.15,0.93,version:marker-1-subject-25
+147,ENGINEERING_REGRESSION,VERSION,caseafq-人工智能课程设计 v1.docx,caseafq-人工智能课程设计 v2.docx,docx,docx,SAME,600,1.22,0.84,version:marker-2-subject-26
+148,ENGINEERING_CALIBRATION,VERSION,caseafr-软件工程需求__第一版.pdf,caseafr-软件工程需求__第二版.pdf,pdf,pdf,DIFFERENT,1,1.04,0.95,version:marker-3-subject-27
+149,ENGINEERING_CALIBRATION,VERSION,caseafs-environment survey_draft.ppt,caseafs-environment survey_final.pptx,ppt,pptx,SAME,6,1.11,0.86,version:marker-4-subject-28
+150,ENGINEERING_REGRESSION,VERSION,caseaft-法律基础论文-张老师修改版.xls,caseaft-法律基础论文-最新版.xlsx,xls,xlsx,SAME,18,1.18,0.97,version:marker-5-subject-29
+151,ENGINEERING_CALIBRATION,VERSION,caseafu-毕业实习报告 批注版.doc,caseafu-毕业实习报告 终稿.docx,doc,docx,SAME,36,1.00,0.88,version:marker-6-subject-0
+152,ENGINEERING_CALIBRATION,VERSION,caseafv-accounting practice__rev1.docx,caseafv-accounting practice__rev2.docx,docx,docx,SAME,96,1.07,0.79,version:marker-7-subject-1
+153,ENGINEERING_REGRESSION,VERSION,caseafw-新能源项目书_草稿.pdf,caseafw-新能源项目书_最终版.pdf,pdf,pdf,SAME,240,1.14,0.90,version:marker-8-subject-2
+154,ENGINEERING_CALIBRATION,VERSION,caseafx-会计实务总结-初稿.ppt,caseafx-会计实务总结-修订版.pptx,ppt,pptx,SAME,600,,0.81,version:marker-9-subject-3
+155,ENGINEERING_CALIBRATION,VERSION,caseafy-user research report copy.xls,caseafy-user research report revised.xlsx,xls,xlsx,DIFFERENT,1,1.03,0.92,version:marker-10-subject-4
+156,ENGINEERING_REGRESSION,VERSION,caseafz-校园招聘策划__第一版.doc,caseafz-校园招聘策划__第二版.docx,doc,docx,SAME,6,1.10,0.83,version:marker-11-subject-5
+157,ENGINEERING_CALIBRATION,VERSION,caseaga-移动应用设计_副本.docx,caseaga-移动应用设计_定稿.docx,docx,docx,SAME,18,1.17,0.94,version:marker-0-subject-6
+158,ENGINEERING_CALIBRATION,VERSION,caseagb-public policy survey-v1.pdf,caseagb-public policy survey-v2.pdf,pdf,pdf,SAME,36,1.24,0.85,version:marker-1-subject-7
+159,ENGINEERING_REGRESSION,VERSION,caseagc-建筑设计说明 批注版.ppt,caseagc-建筑设计说明 终稿.pptx,ppt,pptx,SAME,96,1.06,0.96,version:marker-2-subject-8
+160,ENGINEERING_CALIBRATION,VERSION,caseagd-机械制造实训__20260901.xls,caseagd-机械制造实训__20260903.xlsx,xls,xlsx,SAME,240,1.13,0.87,version:marker-3-subject-9
+161,ENGINEERING_CALIBRATION,VERSION,caseage-market research plan_draft.doc,caseage-market research plan_final.docx,doc,docx,SAME,600,1.20,0.78,version:marker-4-subject-10
+162,ENGINEERING_REGRESSION,VERSION,caseagf-国际贸易案例-初稿.docx,caseagf-国际贸易案例-修订版.docx,docx,docx,DIFFERENT,1,1.02,0.89,version:marker-5-subject-11
+163,ENGINEERING_CALIBRATION,VERSION,caseagg-供应链分析 v1.pdf,caseagg-供应链分析 v2.pdf,pdf,pdf,SAME,6,1.09,0.80,version:marker-6-subject-12
+164,ENGINEERING_CALIBRATION,VERSION,caseagh-ecommerce case study__rev1.ppt,caseagh-ecommerce case study__rev2.pptx,ppt,pptx,SAME,18,1.16,0.91,version:marker-7-subject-13
+165,ENGINEERING_REGRESSION,VERSION,caseagi-大学英语展示_副本.xls,caseagi-大学英语展示_定稿.xlsx,xls,xlsx,SAME,36,1.23,0.82,version:marker-8-subject-14
+166,ENGINEERING_CALIBRATION,VERSION,caseagj-人力资源方案-张老师修改版.doc,caseagj-人力资源方案-最新版.docx,doc,docx,SAME,96,1.05,0.93,version:marker-9-subject-15
+167,ENGINEERING_CALIBRATION,VERSION,caseagk-network design copy.docx,caseagk-network design revised.docx,docx,docx,SAME,,1.12,0.84,version:marker-10-subject-16
+168,ENGINEERING_REGRESSION,VERSION,caseagl-数据库实验总结__20260901.pdf,caseagl-数据库实验总结__20260903.pdf,pdf,pdf,SAME,600,1.19,0.95,version:marker-11-subject-17
+169,ENGINEERING_CALIBRATION,VERSION,caseagm-高等数学复习_草稿.ppt,caseagm-高等数学复习_最终版.pptx,ppt,pptx,DIFFERENT,1,1.01,0.86,version:marker-0-subject-18
+170,ENGINEERING_CALIBRATION,VERSION,caseagn-logistics analysis-v1.xls,caseagn-logistics analysis-v2.xlsx,xls,xlsx,SAME,6,1.08,0.97,version:marker-1-subject-19
+171,ENGINEERING_REGRESSION,VERSION,caseago-产品运营复盘 v1.doc,caseago-产品运营复盘 v2.docx,doc,docx,SAME,18,1.15,0.88,version:marker-2-subject-20
+172,ENGINEERING_CALIBRATION,VERSION,caseagp-人工智能课程设计__第一版.docx,caseagp-人工智能课程设计__第二版.docx,docx,docx,SAME,36,1.22,,version:marker-3-subject-21
+173,ENGINEERING_CALIBRATION,VERSION,caseagq-international trade case_draft.pdf,caseagq-international trade case_final.pdf,pdf,pdf,SAME,96,1.04,0.90,version:marker-4-subject-22
+174,ENGINEERING_REGRESSION,VERSION,caseagr-物流管理分析-张老师修改版.ppt,caseagr-物流管理分析-最新版.pptx,ppt,pptx,SAME,240,1.11,0.81,version:marker-5-subject-23
+175,ENGINEERING_CALIBRATION,VERSION,caseags-法律基础论文 批注版.xls,caseags-法律基础论文 终稿.xlsx,xls,xlsx,SAME,600,1.18,0.92,version:marker-6-subject-24
+176,ENGINEERING_CALIBRATION,VERSION,caseagt-tourism strategy__rev1.doc,caseagt-tourism strategy__rev2.docx,doc,docx,DIFFERENT,1,1.00,0.83,version:marker-7-subject-25
+177,ENGINEERING_REGRESSION,VERSION,caseagu-电子商务案例_草稿.docx,caseagu-电子商务案例_最终版.docx,docx,docx,SAME,6,1.07,0.94,version:marker-8-subject-26
+178,ENGINEERING_CALIBRATION,VERSION,caseagv-新能源项目书-初稿.pdf,caseagv-新能源项目书-修订版.pdf,pdf,pdf,SAME,18,1.14,0.85,version:marker-9-subject-27
+179,ENGINEERING_CALIBRATION,VERSION,caseagw-architecture brief copy.ppt,caseagw-architecture brief revised.pptx,ppt,pptx,SAME,36,1.21,0.96,version:marker-10-subject-28
+180,ENGINEERING_REGRESSION,VERSION,caseagx-医学统计报告__第一版.xls,caseagx-医学统计报告__第二版.xlsx,xls,xlsx,SAME,96,1.03,0.87,version:marker-11-subject-29
+181,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseagy-毕业实习报告 reference-00.pdf,caseagy-毕业实习报告 reference-00.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-0
+182,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseagz-machine learning project reference-01.docx,caseagz-machine learning project reference-01.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-1
+183,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaha-数据库实验总结 reference-02.xlsx,caseaha-数据库实验总结 reference-02.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-2
+184,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahb-market research plan reference-03.pptx,caseahb-market research plan reference-03.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-3
+185,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahc-机械制造实训 reference-04.pdf,caseahc-机械制造实训 reference-04.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-4
+186,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahd-financial analysis reference-05.docx,caseahd-financial analysis reference-05.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-5
+187,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahe-校园招聘策划 reference-06.xlsx,caseahe-校园招聘策划 reference-06.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-6
+188,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahf-ecommerce case study reference-07.pptx,caseahf-ecommerce case study reference-07.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-7
+189,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahg-软件工程需求 reference-08.pdf,caseahg-软件工程需求 reference-08.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-8
+190,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahh-calculus review reference-09.docx,caseahh-calculus review reference-09.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-9
+191,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahi-大学英语展示 reference-10.xlsx,caseahi-大学英语展示 reference-10.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-10
+192,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahj-network design reference-11.pptx,caseahj-network design reference-11.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-11
+193,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahk-数据结构课程作业 reference-12.pdf,caseahk-数据结构课程作业 reference-12.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-12
+194,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahl-mobile app design reference-13.docx,caseahl-mobile app design reference-13.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-13
+195,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahm-新能源项目书 reference-14.xlsx,caseahm-新能源项目书 reference-14.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-14
+196,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahn-logistics analysis reference-15.pptx,caseahn-logistics analysis reference-15.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-15
+197,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaho-数字媒体策划 reference-16.pdf,caseaho-数字媒体策划 reference-16.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-16
+198,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahp-environment survey reference-17.docx,caseahp-environment survey reference-17.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-17
+199,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahq-人力资源方案 reference-18.xlsx,caseahq-人力资源方案 reference-18.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-18
+200,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahr-international trade case reference-19.pptx,caseahr-international trade case reference-19.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-19
+201,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahs-工程测量记录 reference-20.pdf,caseahs-工程测量记录 reference-20.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-20
+202,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaht-accounting practice reference-21.docx,caseaht-accounting practice reference-21.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-21
+203,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahu-法律基础论文 reference-22.xlsx,caseahu-法律基础论文 reference-22.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-22
+204,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahv-tourism strategy reference-23.pptx,caseahv-tourism strategy reference-23.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-23
+205,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahw-产品运营复盘 reference-24.pdf,caseahw-产品运营复盘 reference-24.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-24
+206,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahx-user research report reference-25.docx,caseahx-user research report reference-25.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-25
+207,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseahy-供应链分析 reference-26.xlsx,caseahy-供应链分析 reference-26.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-26
+208,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseahz-architecture brief reference-27.pptx,caseahz-architecture brief reference-27.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-27
+209,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaia-医学统计报告 reference-28.pdf,caseaia-医学统计报告 reference-28.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-28
+210,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaib-public policy survey reference-29.docx,caseaib-public policy survey reference-29.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-29
+211,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaic-毕业实习报告 reference-30.xlsx,caseaic-毕业实习报告 reference-30.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-30
+212,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaid-machine learning project reference-31.pptx,caseaid-machine learning project reference-31.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-31
+213,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaie-数据库实验总结 reference-32.pdf,caseaie-数据库实验总结 reference-32.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-32
+214,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaif-market research plan reference-33.docx,caseaif-market research plan reference-33.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-33
+215,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaig-机械制造实训 reference-34.xlsx,caseaig-机械制造实训 reference-34.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-34
+216,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaih-financial analysis reference-35.pptx,caseaih-financial analysis reference-35.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-35
+217,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaii-校园招聘策划 reference-36.pdf,caseaii-校园招聘策划 reference-36.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-36
+218,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaij-ecommerce case study reference-37.docx,caseaij-ecommerce case study reference-37.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-37
+219,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaik-软件工程需求 reference-38.xlsx,caseaik-软件工程需求 reference-38.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-38
+220,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseail-calculus review reference-39.pptx,caseail-calculus review reference-39.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-39
+221,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaim-大学英语展示 reference-40.pdf,caseaim-大学英语展示 reference-40.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-40
+222,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseain-network design reference-41.docx,caseain-network design reference-41.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-41
+223,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaio-数据结构课程作业 reference-42.xlsx,caseaio-数据结构课程作业 reference-42.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-42
+224,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaip-mobile app design reference-43.pptx,caseaip-mobile app design reference-43.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-43
+225,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaiq-新能源项目书 reference-44.pdf,caseaiq-新能源项目书 reference-44.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-44
+226,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseair-logistics analysis reference-45.docx,caseair-logistics analysis reference-45.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-45
+227,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseais-数字媒体策划 reference-46.xlsx,caseais-数字媒体策划 reference-46.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-46
+228,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseait-environment survey reference-47.pptx,caseait-environment survey reference-47.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-47
+229,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaiu-人力资源方案 reference-48.pdf,caseaiu-人力资源方案 reference-48.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-48
+230,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaiv-international trade case reference-49.docx,caseaiv-international trade case reference-49.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-49
+231,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaiw-工程测量记录 reference-50.xlsx,caseaiw-工程测量记录 reference-50.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-50
+232,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaix-accounting practice reference-51.pptx,caseaix-accounting practice reference-51.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-51
+233,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaiy-法律基础论文 reference-52.pdf,caseaiy-法律基础论文 reference-52.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-52
+234,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseaiz-tourism strategy reference-53.docx,caseaiz-tourism strategy reference-53.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-53
+235,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaja-产品运营复盘 reference-54.xlsx,caseaja-产品运营复盘 reference-54.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-54
+236,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseajb-user research report reference-55.pptx,caseajb-user research report reference-55.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-55
+237,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseajc-供应链分析 reference-56.pdf,caseajc-供应链分析 reference-56.pdf,pdf,pdf,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-56
+238,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseajd-architecture brief reference-57.docx,caseajd-architecture brief reference-57.docx,docx,docx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-57
+239,ENGINEERING_CALIBRATION,EXACT_DUPLICATE,caseaje-医学统计报告 reference-58.xlsx,caseaje-医学统计报告 reference-58.xlsx,xlsx,xlsx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-58
+240,ENGINEERING_REGRESSION,EXACT_DUPLICATE,caseajf-public policy survey reference-59.pptx,caseajf-public policy survey reference-59.pptx,pptx,pptx,SAME,0,1.00,1.00,exact-duplicate:upstream-sha256-collapse-59
+241,ENGINEERING_CALIBRATION,NOT_VERSION,caseajg-毕业实习报告报告.docx,caseajg-计算机网络设计报告.docx,docx,docx,SAME,2,1.00,0.05,negative:different-topic-shared-报告-0
+242,ENGINEERING_CALIBRATION,NOT_VERSION,caseajh-人工智能课程设计课程材料.pdf,caseajh-数据结构课程作业课程材料.pdf,pdf,pdf,SAME,30,1.01,0.12,negative:different-topic-shared-课程材料-1
+243,ENGINEERING_REGRESSION,NOT_VERSION,caseaji-数据库实验总结项目总结.pptx,caseaji-移动应用设计项目总结.pptx,pptx,pptx,SAME,96,1.02,0.19,negative:different-topic-shared-项目总结-2
+244,ENGINEERING_CALIBRATION,NOT_VERSION,caseajj-市场营销调研学习资料.xlsx,caseajj-新能源项目书学习资料.xlsx,xlsx,xlsx,SAME,720,1.03,0.26,negative:different-topic-shared-学习资料-3
+245,ENGINEERING_CALIBRATION,NOT_VERSION,caseajk-机械制造实训方案.docx,caseajk-物流管理分析方案.docx,docx,docx,SAME,2,1.04,0.10,negative:different-topic-shared-方案-4
+246,ENGINEERING_REGRESSION,NOT_VERSION,caseajl-财务分析方案报告.pdf,caseajl-数字媒体策划报告.pdf,pdf,pdf,SAME,30,1.05,0.17,negative:different-topic-shared-报告-5
+247,ENGINEERING_CALIBRATION,NOT_VERSION,caseajm-校园招聘策划课程材料.pptx,caseajm-环境监测报告课程材料.pptx,pptx,pptx,SAME,96,1.06,0.24,negative:different-topic-shared-课程材料-6
+248,ENGINEERING_CALIBRATION,NOT_VERSION,caseajn-电子商务案例项目总结.xlsx,caseajn-国际贸易案例项目总结.xlsx,xlsx,xlsx,SAME,720,1.07,0.08,negative:different-topic-shared-项目总结-7
+249,ENGINEERING_REGRESSION,NOT_VERSION,caseajo-软件工程需求学习资料.docx,caseajo-工程测量记录学习资料.docx,docx,docx,SAME,2,1.08,0.15,negative:different-topic-shared-学习资料-8
+250,ENGINEERING_CALIBRATION,NOT_VERSION,caseajp-高等数学复习方案.pdf,caseajp-会计实务总结方案.pdf,pdf,pdf,SAME,30,1.09,0.22,negative:different-topic-shared-方案-9
+251,ENGINEERING_CALIBRATION,NOT_VERSION,caseajq-大学英语展示报告.pptx,caseajq-法律基础论文报告.pptx,pptx,pptx,SAME,96,1.10,0.06,negative:different-topic-shared-报告-10
+252,ENGINEERING_REGRESSION,NOT_VERSION,caseajr-计算机网络设计课程材料.xlsx,caseajr-旅游规划方案课程材料.xlsx,xlsx,xlsx,SAME,720,1.11,0.13,negative:different-topic-shared-课程材料-11
+253,ENGINEERING_CALIBRATION,NOT_VERSION,caseajs-数据结构课程作业项目总结.docx,caseajs-产品运营复盘项目总结.docx,docx,docx,SAME,2,1.12,0.20,negative:different-topic-shared-项目总结-12
+254,ENGINEERING_CALIBRATION,NOT_VERSION,caseajt-移动应用设计学习资料.pdf,caseajt-用户研究报告学习资料.pdf,pdf,pdf,SAME,30,1.13,0.27,negative:different-topic-shared-学习资料-13
+255,ENGINEERING_REGRESSION,NOT_VERSION,caseaju-新能源项目书方案.pptx,caseaju-建筑设计说明方案.pptx,pptx,pptx,SAME,96,1.14,0.11,negative:different-topic-shared-方案-14
+256,ENGINEERING_CALIBRATION,NOT_VERSION,caseajv-物流管理分析报告.xlsx,caseajv-医学统计报告报告.xlsx,xlsx,xlsx,SAME,720,1.15,0.18,negative:different-topic-shared-报告-15
+257,ENGINEERING_CALIBRATION,NOT_VERSION,caseajw-数字媒体策划课程材料.docx,caseajw-公共管理调查课程材料.docx,docx,docx,SAME,2,1.16,0.25,negative:different-topic-shared-课程材料-16
+258,ENGINEERING_REGRESSION,NOT_VERSION,caseajx-环境监测报告项目总结.pdf,caseajx-毕业实习报告项目总结.pdf,pdf,pdf,SAME,30,1.17,0.09,negative:different-topic-shared-项目总结-17
+259,ENGINEERING_CALIBRATION,NOT_VERSION,caseajy-人力资源方案学习资料.pptx,caseajy-人工智能课程设计学习资料.pptx,pptx,pptx,SAME,96,1.18,0.16,negative:different-topic-shared-学习资料-18
+260,ENGINEERING_CALIBRATION,NOT_VERSION,caseajz-国际贸易案例方案.xlsx,caseajz-数据库实验总结方案.xlsx,xlsx,xlsx,SAME,720,1.19,0.23,negative:different-topic-shared-方案-19
+261,ENGINEERING_REGRESSION,NOT_VERSION,caseaka-工程测量记录报告.docx,caseaka-市场营销调研报告.docx,docx,docx,SAME,2,1.00,0.07,negative:different-topic-shared-报告-20
+262,ENGINEERING_CALIBRATION,NOT_VERSION,caseakb-会计实务总结课程材料.pdf,caseakb-财务分析方案课程材料.pdf,pdf,pdf,SAME,30,1.01,0.14,negative:different-topic-shared-课程材料-21
+263,ENGINEERING_CALIBRATION,NOT_VERSION,caseakc-法律基础论文项目总结.pptx,caseakc-校园招聘策划项目总结.pptx,pptx,pptx,SAME,96,1.02,0.21,negative:different-topic-shared-项目总结-22
+264,ENGINEERING_REGRESSION,NOT_VERSION,caseakd-旅游规划方案学习资料.xlsx,caseakd-电子商务案例学习资料.xlsx,xlsx,xlsx,SAME,720,1.03,0.05,negative:different-topic-shared-学习资料-23
+265,ENGINEERING_CALIBRATION,NOT_VERSION,caseake-产品运营复盘方案.docx,caseake-软件工程需求方案.docx,docx,docx,SAME,2,1.04,0.12,negative:different-topic-shared-方案-24
+266,ENGINEERING_CALIBRATION,NOT_VERSION,caseakf-用户研究报告报告.pdf,caseakf-高等数学复习报告.pdf,pdf,pdf,SAME,30,1.05,0.19,negative:different-topic-shared-报告-25
+267,ENGINEERING_REGRESSION,NOT_VERSION,caseakg-供应链分析课程材料.pptx,caseakg-大学英语展示课程材料.pptx,pptx,pptx,SAME,96,1.06,0.26,negative:different-topic-shared-课程材料-26
+268,ENGINEERING_CALIBRATION,NOT_VERSION,caseakh-建筑设计说明项目总结.xlsx,caseakh-计算机网络设计项目总结.xlsx,xlsx,xlsx,SAME,720,1.07,0.10,negative:different-topic-shared-项目总结-27
+269,ENGINEERING_CALIBRATION,NOT_VERSION,caseaki-医学统计报告学习资料.docx,caseaki-移动应用设计学习资料.docx,docx,docx,SAME,2,1.08,0.17,negative:different-topic-shared-学习资料-28
+270,ENGINEERING_REGRESSION,NOT_VERSION,caseakj-公共管理调查方案.pdf,caseakj-新能源项目书方案.pdf,pdf,pdf,SAME,30,1.09,0.24,negative:different-topic-shared-方案-29
+271,ENGINEERING_CALIBRATION,NOT_VERSION,caseakk-毕业实习报告报告.pptx,caseakk-物流管理分析报告.pptx,pptx,pptx,SAME,96,1.10,0.08,negative:different-topic-shared-报告-30
+272,ENGINEERING_CALIBRATION,NOT_VERSION,caseakl-人工智能课程设计课程材料.xlsx,caseakl-数字媒体策划课程材料.xlsx,xlsx,xlsx,SAME,720,1.11,0.15,negative:different-topic-shared-课程材料-31
+273,ENGINEERING_REGRESSION,NOT_VERSION,caseakm-数据库实验总结项目总结.docx,caseakm-环境监测报告项目总结.docx,docx,docx,SAME,2,1.12,0.22,negative:different-topic-shared-项目总结-32
+274,ENGINEERING_CALIBRATION,NOT_VERSION,caseakn-市场营销调研学习资料.pdf,caseakn-人力资源方案学习资料.pdf,pdf,pdf,SAME,30,1.13,0.06,negative:different-topic-shared-学习资料-33
+275,ENGINEERING_CALIBRATION,NOT_VERSION,caseako-机械制造实训方案.pptx,caseako-国际贸易案例方案.pptx,pptx,pptx,SAME,96,1.14,0.13,negative:different-topic-shared-方案-34
+276,ENGINEERING_REGRESSION,NOT_VERSION,caseakp-财务分析方案报告.xlsx,caseakp-会计实务总结报告.xlsx,xlsx,xlsx,SAME,720,1.15,0.20,negative:different-topic-shared-报告-35
+277,ENGINEERING_CALIBRATION,NOT_VERSION,caseakq-校园招聘策划课程材料.docx,caseakq-法律基础论文课程材料.docx,docx,docx,SAME,2,1.16,0.27,negative:different-topic-shared-课程材料-36
+278,ENGINEERING_CALIBRATION,NOT_VERSION,caseakr-电子商务案例项目总结.pdf,caseakr-旅游规划方案项目总结.pdf,pdf,pdf,SAME,30,1.17,0.11,negative:different-topic-shared-项目总结-37
+279,ENGINEERING_REGRESSION,NOT_VERSION,caseaks-软件工程需求学习资料.pptx,caseaks-产品运营复盘学习资料.pptx,pptx,pptx,SAME,96,1.18,0.18,negative:different-topic-shared-学习资料-38
+280,ENGINEERING_CALIBRATION,NOT_VERSION,caseakt-高等数学复习方案.xlsx,caseakt-用户研究报告方案.xlsx,xlsx,xlsx,SAME,720,1.19,0.25,negative:different-topic-shared-方案-39
+281,ENGINEERING_CALIBRATION,NOT_VERSION,caseaku-大学英语展示报告.docx,caseaku-供应链分析报告.docx,docx,docx,SAME,2,1.00,0.09,negative:different-topic-shared-报告-40
+282,ENGINEERING_REGRESSION,NOT_VERSION,caseakv-计算机网络设计课程材料.pdf,caseakv-建筑设计说明课程材料.pdf,pdf,pdf,SAME,30,1.01,0.16,negative:different-topic-shared-课程材料-41
+283,ENGINEERING_CALIBRATION,NOT_VERSION,caseakw-数据结构课程作业项目总结.pptx,caseakw-公共管理调查项目总结.pptx,pptx,pptx,SAME,96,1.02,0.23,negative:different-topic-shared-项目总结-42
+284,ENGINEERING_CALIBRATION,NOT_VERSION,caseakx-移动应用设计学习资料.xlsx,caseakx-毕业实习报告学习资料.xlsx,xlsx,xlsx,SAME,720,1.03,0.07,negative:different-topic-shared-学习资料-43
+285,ENGINEERING_REGRESSION,NOT_VERSION,caseaky-新能源项目书方案.docx,caseaky-人工智能课程设计方案.docx,docx,docx,SAME,2,1.04,0.14,negative:different-topic-shared-方案-44
+286,ENGINEERING_CALIBRATION,NOT_VERSION,caseakz-物流管理分析报告.pdf,caseakz-数据库实验总结报告.pdf,pdf,pdf,SAME,30,1.05,0.21,negative:different-topic-shared-报告-45
+287,ENGINEERING_CALIBRATION,NOT_VERSION,caseala-数字媒体策划课程材料.pptx,caseala-市场营销调研课程材料.pptx,pptx,pptx,SAME,96,1.06,0.05,negative:different-topic-shared-课程材料-46
+288,ENGINEERING_REGRESSION,NOT_VERSION,casealb-环境监测报告项目总结.xlsx,casealb-机械制造实训项目总结.xlsx,xlsx,xlsx,SAME,720,1.07,0.12,negative:different-topic-shared-项目总结-47
+289,ENGINEERING_CALIBRATION,NOT_VERSION,casealc-人力资源方案学习资料.docx,casealc-财务分析方案学习资料.docx,docx,docx,SAME,2,1.08,0.19,negative:different-topic-shared-学习资料-48
+290,ENGINEERING_CALIBRATION,NOT_VERSION,caseald-国际贸易案例方案.pdf,caseald-电子商务案例方案.pdf,pdf,pdf,SAME,30,1.09,0.26,negative:different-topic-shared-方案-49
+291,ENGINEERING_REGRESSION,NOT_VERSION,caseale-工程测量记录报告.pptx,caseale-软件工程需求报告.pptx,pptx,pptx,SAME,96,1.10,0.10,negative:different-topic-shared-报告-50
+292,ENGINEERING_CALIBRATION,NOT_VERSION,casealf-会计实务总结课程材料.xlsx,casealf-高等数学复习课程材料.xlsx,xlsx,xlsx,SAME,720,1.11,0.17,negative:different-topic-shared-课程材料-51
+293,ENGINEERING_CALIBRATION,NOT_VERSION,casealg-法律基础论文项目总结.docx,casealg-大学英语展示项目总结.docx,docx,docx,SAME,2,1.12,0.24,negative:different-topic-shared-项目总结-52
+294,ENGINEERING_REGRESSION,NOT_VERSION,casealh-旅游规划方案学习资料.pdf,casealh-计算机网络设计学习资料.pdf,pdf,pdf,SAME,30,1.13,0.08,negative:different-topic-shared-学习资料-53
+295,ENGINEERING_CALIBRATION,NOT_VERSION,caseali-产品运营复盘方案.pptx,caseali-数据结构课程作业方案.pptx,pptx,pptx,SAME,96,1.14,0.15,negative:different-topic-shared-方案-54
+296,ENGINEERING_CALIBRATION,NOT_VERSION,casealj-用户研究报告报告.xlsx,casealj-移动应用设计报告.xlsx,xlsx,xlsx,SAME,720,1.15,0.22,negative:different-topic-shared-报告-55
+297,ENGINEERING_REGRESSION,NOT_VERSION,casealk-供应链分析课程材料.docx,casealk-物流管理分析课程材料.docx,docx,docx,SAME,2,1.16,0.06,negative:different-topic-shared-课程材料-56
+298,ENGINEERING_CALIBRATION,NOT_VERSION,caseall-建筑设计说明项目总结.pdf,caseall-数字媒体策划项目总结.pdf,pdf,pdf,SAME,30,1.17,0.13,negative:different-topic-shared-项目总结-57
+299,ENGINEERING_CALIBRATION,NOT_VERSION,casealm-医学统计报告学习资料.pptx,casealm-环境监测报告学习资料.pptx,pptx,pptx,SAME,96,1.18,0.20,negative:different-topic-shared-学习资料-58
+300,ENGINEERING_REGRESSION,NOT_VERSION,casealn-公共管理调查方案.xlsx,casealn-人力资源方案方案.xlsx,xlsx,xlsx,SAME,720,1.19,0.27,negative:different-topic-shared-方案-59
+301,ENGINEERING_CALIBRATION,NOT_VERSION,casealo-毕业实习报告报告.docx,casealo-国际贸易案例报告.docx,docx,docx,SAME,2,1.00,0.11,negative:different-topic-shared-报告-60
+302,ENGINEERING_CALIBRATION,NOT_VERSION,casealp-人工智能课程设计课程材料.pdf,casealp-工程测量记录课程材料.pdf,pdf,pdf,SAME,30,1.01,0.18,negative:different-topic-shared-课程材料-61
+303,ENGINEERING_REGRESSION,NOT_VERSION,casealq-数据库实验总结项目总结.pptx,casealq-会计实务总结项目总结.pptx,pptx,pptx,SAME,96,1.02,0.25,negative:different-topic-shared-项目总结-62
+304,ENGINEERING_CALIBRATION,NOT_VERSION,casealr-市场营销调研学习资料.xlsx,casealr-旅游规划方案学习资料.xlsx,xlsx,xlsx,SAME,720,1.03,0.09,negative:different-topic-shared-学习资料-63
+305,ENGINEERING_CALIBRATION,NOT_VERSION,caseals-机械制造实训方案.docx,caseals-产品运营复盘方案.docx,docx,docx,SAME,2,1.04,0.16,negative:different-topic-shared-方案-64
+306,ENGINEERING_REGRESSION,NOT_VERSION,casealt-财务分析方案报告.pdf,casealt-用户研究报告报告.pdf,pdf,pdf,SAME,30,1.05,0.23,negative:different-topic-shared-报告-65
+307,ENGINEERING_CALIBRATION,NOT_VERSION,casealu-校园招聘策划课程材料.pptx,casealu-供应链分析课程材料.pptx,pptx,pptx,SAME,96,1.06,0.07,negative:different-topic-shared-课程材料-66
+308,ENGINEERING_CALIBRATION,NOT_VERSION,casealv-电子商务案例项目总结.xlsx,casealv-建筑设计说明项目总结.xlsx,xlsx,xlsx,SAME,720,1.07,0.14,negative:different-topic-shared-项目总结-67
+309,ENGINEERING_REGRESSION,NOT_VERSION,casealw-软件工程需求学习资料.docx,casealw-医学统计报告学习资料.docx,docx,docx,SAME,2,1.08,0.21,negative:different-topic-shared-学习资料-68
+310,ENGINEERING_CALIBRATION,NOT_VERSION,casealx-高等数学复习方案.pdf,casealx-公共管理调查方案.pdf,pdf,pdf,SAME,30,1.09,0.05,negative:different-topic-shared-方案-69
+311,ENGINEERING_CALIBRATION,NOT_VERSION,casealy-大学英语展示报告.pptx,casealy-人工智能课程设计报告.pptx,pptx,pptx,SAME,96,1.10,0.12,negative:different-topic-shared-报告-70
+312,ENGINEERING_REGRESSION,NOT_VERSION,casealz-计算机网络设计课程材料.xlsx,casealz-数据库实验总结课程材料.xlsx,xlsx,xlsx,SAME,720,1.11,0.19,negative:different-topic-shared-课程材料-71
+313,ENGINEERING_CALIBRATION,NOT_VERSION,caseama-数据结构课程作业项目总结.docx,caseama-市场营销调研项目总结.docx,docx,docx,SAME,2,1.12,0.26,negative:different-topic-shared-项目总结-72
+314,ENGINEERING_CALIBRATION,NOT_VERSION,caseamb-移动应用设计学习资料.pdf,caseamb-机械制造实训学习资料.pdf,pdf,pdf,SAME,30,1.13,0.10,negative:different-topic-shared-学习资料-73
+315,ENGINEERING_REGRESSION,NOT_VERSION,caseamc-新能源项目书方案.pptx,caseamc-财务分析方案方案.pptx,pptx,pptx,SAME,96,1.14,0.17,negative:different-topic-shared-方案-74
+316,ENGINEERING_CALIBRATION,NOT_VERSION,caseamd-物流管理分析报告.xlsx,caseamd-校园招聘策划报告.xlsx,xlsx,xlsx,SAME,720,1.15,0.24,negative:different-topic-shared-报告-75
+317,ENGINEERING_CALIBRATION,NOT_VERSION,caseame-数字媒体策划课程材料.docx,caseame-电子商务案例课程材料.docx,docx,docx,SAME,2,1.16,0.08,negative:different-topic-shared-课程材料-76
+318,ENGINEERING_REGRESSION,NOT_VERSION,caseamf-环境监测报告项目总结.pdf,caseamf-高等数学复习项目总结.pdf,pdf,pdf,SAME,30,1.17,0.15,negative:different-topic-shared-项目总结-77
+319,ENGINEERING_CALIBRATION,NOT_VERSION,caseamg-人力资源方案学习资料.pptx,caseamg-大学英语展示学习资料.pptx,pptx,pptx,SAME,96,1.18,0.22,negative:different-topic-shared-学习资料-78
+320,ENGINEERING_CALIBRATION,NOT_VERSION,caseamh-国际贸易案例方案.xlsx,caseamh-计算机网络设计方案.xlsx,xlsx,xlsx,SAME,720,1.19,0.06,negative:different-topic-shared-方案-79
+321,ENGINEERING_REGRESSION,NOT_VERSION,caseami-工程测量记录报告.docx,caseami-数据结构课程作业报告.docx,docx,docx,SAME,2,1.00,0.13,negative:different-topic-shared-报告-80
+322,ENGINEERING_CALIBRATION,NOT_VERSION,caseamj-会计实务总结课程材料.pdf,caseamj-移动应用设计课程材料.pdf,pdf,pdf,SAME,30,1.01,0.20,negative:different-topic-shared-课程材料-81
+323,ENGINEERING_CALIBRATION,NOT_VERSION,caseamk-法律基础论文项目总结.pptx,caseamk-新能源项目书项目总结.pptx,pptx,pptx,SAME,96,1.02,0.27,negative:different-topic-shared-项目总结-82
+324,ENGINEERING_REGRESSION,NOT_VERSION,caseaml-旅游规划方案学习资料.xlsx,caseaml-物流管理分析学习资料.xlsx,xlsx,xlsx,SAME,720,1.03,0.11,negative:different-topic-shared-学习资料-83
+325,ENGINEERING_CALIBRATION,NOT_VERSION,caseamm-产品运营复盘方案.docx,caseamm-环境监测报告方案.docx,docx,docx,SAME,2,1.04,0.18,negative:different-topic-shared-方案-84
+326,ENGINEERING_CALIBRATION,NOT_VERSION,caseamn-用户研究报告报告.pdf,caseamn-人力资源方案报告.pdf,pdf,pdf,SAME,30,1.05,0.25,negative:different-topic-shared-报告-85
+327,ENGINEERING_REGRESSION,NOT_VERSION,caseamo-供应链分析课程材料.pptx,caseamo-国际贸易案例课程材料.pptx,pptx,pptx,SAME,96,1.06,0.09,negative:different-topic-shared-课程材料-86
+328,ENGINEERING_CALIBRATION,NOT_VERSION,caseamp-建筑设计说明项目总结.xlsx,caseamp-工程测量记录项目总结.xlsx,xlsx,xlsx,SAME,720,1.07,0.16,negative:different-topic-shared-项目总结-87
+329,ENGINEERING_CALIBRATION,NOT_VERSION,caseamq-医学统计报告学习资料.docx,caseamq-会计实务总结学习资料.docx,docx,docx,SAME,2,1.08,0.23,negative:different-topic-shared-学习资料-88
+330,ENGINEERING_REGRESSION,NOT_VERSION,caseamr-公共管理调查方案.pdf,caseamr-法律基础论文方案.pdf,pdf,pdf,SAME,30,1.09,0.07,negative:different-topic-shared-方案-89
+331,ENGINEERING_CALIBRATION,NOT_VERSION,caseams-毕业实习报告报告.pptx,caseams-旅游规划方案报告.pptx,pptx,pptx,SAME,96,1.10,0.14,negative:different-topic-shared-报告-90
+332,ENGINEERING_CALIBRATION,NOT_VERSION,caseamt-人工智能课程设计课程材料.xlsx,caseamt-用户研究报告课程材料.xlsx,xlsx,xlsx,SAME,720,1.11,0.21,negative:different-topic-shared-课程材料-91
+333,ENGINEERING_REGRESSION,NOT_VERSION,caseamu-数据库实验总结项目总结.docx,caseamu-供应链分析项目总结.docx,docx,docx,SAME,2,1.12,0.05,negative:different-topic-shared-项目总结-92
+334,ENGINEERING_CALIBRATION,NOT_VERSION,caseamv-市场营销调研学习资料.pdf,caseamv-建筑设计说明学习资料.pdf,pdf,pdf,SAME,30,1.13,0.12,negative:different-topic-shared-学习资料-93
+335,ENGINEERING_CALIBRATION,NOT_VERSION,caseamw-机械制造实训方案.pptx,caseamw-医学统计报告方案.pptx,pptx,pptx,SAME,96,1.14,0.19,negative:different-topic-shared-方案-94
+336,ENGINEERING_REGRESSION,NOT_VERSION,caseamx-财务分析方案报告.xlsx,caseamx-公共管理调查报告.xlsx,xlsx,xlsx,SAME,720,1.15,0.26,negative:different-topic-shared-报告-95
+337,ENGINEERING_CALIBRATION,NOT_VERSION,caseamy-校园招聘策划课程材料.docx,caseamy-毕业实习报告课程材料.docx,docx,docx,SAME,2,1.16,0.10,negative:different-topic-shared-课程材料-96
+338,ENGINEERING_CALIBRATION,NOT_VERSION,caseamz-电子商务案例项目总结.pdf,caseamz-人工智能课程设计项目总结.pdf,pdf,pdf,SAME,30,1.17,0.17,negative:different-topic-shared-项目总结-97
+339,ENGINEERING_REGRESSION,NOT_VERSION,caseana-软件工程需求学习资料.pptx,caseana-市场营销调研学习资料.pptx,pptx,pptx,SAME,96,1.18,0.24,negative:different-topic-shared-学习资料-98
+340,ENGINEERING_CALIBRATION,NOT_VERSION,caseanb-高等数学复习方案.xlsx,caseanb-机械制造实训方案.xlsx,xlsx,xlsx,SAME,720,1.19,0.08,negative:different-topic-shared-方案-99
+341,ENGINEERING_CALIBRATION,NOT_VERSION,caseanc-毕业实习报告 archive-00.docx,caseanc-毕业实习报告 archive-00.docx,docx,docx,DIFFERENT,,,,negative:same-name-independent-document-0
+342,ENGINEERING_REGRESSION,NOT_VERSION,caseand-financial analysis archive-01.pdf,caseand-financial analysis archive-01.pdf,pdf,pdf,DIFFERENT,720,1.06,0.32,negative:same-name-independent-document-1
+343,ENGINEERING_CALIBRATION,NOT_VERSION,caseane-校园招聘策划 archive-02.pptx,caseane-校园招聘策划 archive-02.pptx,pptx,pptx,DIFFERENT,2160,1.07,0.33,negative:same-name-independent-document-2
+344,ENGINEERING_CALIBRATION,NOT_VERSION,caseanf-logistics analysis archive-03.xlsx,caseanf-logistics analysis archive-03.xlsx,xlsx,xlsx,DIFFERENT,8760,1.08,0.34,negative:same-name-independent-document-3
+345,ENGINEERING_REGRESSION,NOT_VERSION,caseang-数据结构课程作业 archive-04.docx,caseang-数据结构课程作业 archive-04.docx,docx,docx,DIFFERENT,48,1.09,0.35,negative:same-name-independent-document-4
+346,ENGINEERING_CALIBRATION,NOT_VERSION,caseanh-user research report archive-05.pdf,caseanh-user research report archive-05.pdf,pdf,pdf,DIFFERENT,720,1.10,0.36,negative:same-name-independent-document-5
+347,ENGINEERING_CALIBRATION,NOT_VERSION,caseani-人力资源方案 archive-06.pptx,caseani-人力资源方案 archive-06.pptx,pptx,pptx,DIFFERENT,2160,1.11,0.37,negative:same-name-independent-document-6
+348,ENGINEERING_REGRESSION,NOT_VERSION,caseanj-financial analysis archive-07.xlsx,caseanj-financial analysis archive-07.xlsx,xlsx,xlsx,DIFFERENT,8760,1.12,0.38,negative:same-name-independent-document-7
+349,ENGINEERING_CALIBRATION,NOT_VERSION,caseank-产品运营复盘 archive-08.docx,caseank-产品运营复盘 archive-08.docx,docx,docx,DIFFERENT,48,1.13,0.39,negative:same-name-independent-document-8
+350,ENGINEERING_CALIBRATION,NOT_VERSION,caseanl-logistics analysis archive-09.pdf,caseanl-logistics analysis archive-09.pdf,pdf,pdf,DIFFERENT,,1.14,0.40,negative:same-name-independent-document-9
+351,ENGINEERING_REGRESSION,NOT_VERSION,caseanm-毕业实习报告 archive-10.pptx,caseanm-毕业实习报告 archive-10.pptx,pptx,pptx,DIFFERENT,2160,1.15,,negative:same-name-independent-document-10
+352,ENGINEERING_CALIBRATION,NOT_VERSION,caseann-user research report archive-11.xlsx,caseann-user research report archive-11.xlsx,xlsx,xlsx,DIFFERENT,8760,,0.42,negative:same-name-independent-document-11
+353,ENGINEERING_CALIBRATION,NOT_VERSION,caseano-校园招聘策划 archive-12.docx,caseano-校园招聘策划 archive-12.docx,docx,docx,DIFFERENT,48,1.17,0.43,negative:same-name-independent-document-12
+354,ENGINEERING_REGRESSION,NOT_VERSION,caseanp-financial analysis archive-13.pdf,caseanp-financial analysis archive-13.pdf,pdf,pdf,DIFFERENT,720,1.18,0.44,negative:same-name-independent-document-13
+355,ENGINEERING_CALIBRATION,NOT_VERSION,caseanq-数据结构课程作业 archive-14.pptx,caseanq-数据结构课程作业 archive-14.pptx,pptx,pptx,DIFFERENT,2160,1.19,0.45,negative:same-name-independent-document-14
+356,ENGINEERING_CALIBRATION,NOT_VERSION,caseanr-logistics analysis archive-15.xlsx,caseanr-logistics analysis archive-15.xlsx,xlsx,xlsx,DIFFERENT,8760,1.20,0.46,negative:same-name-independent-document-15
+357,ENGINEERING_REGRESSION,NOT_VERSION,caseans-人力资源方案 archive-16.docx,caseans-人力资源方案 archive-16.docx,docx,docx,DIFFERENT,48,1.21,0.47,negative:same-name-independent-document-16
+358,ENGINEERING_CALIBRATION,NOT_VERSION,caseant-user research report archive-17.pdf,caseant-user research report archive-17.pdf,pdf,pdf,DIFFERENT,720,1.22,0.48,negative:same-name-independent-document-17
+359,ENGINEERING_CALIBRATION,NOT_VERSION,caseanu-产品运营复盘 archive-18.pptx,caseanu-产品运营复盘 archive-18.pptx,pptx,pptx,DIFFERENT,,1.23,0.49,negative:same-name-independent-document-18
+360,ENGINEERING_REGRESSION,NOT_VERSION,caseanv-financial analysis archive-19.xlsx,caseanv-financial analysis archive-19.xlsx,xlsx,xlsx,DIFFERENT,8760,1.24,0.50,negative:same-name-independent-document-19
+361,ENGINEERING_CALIBRATION,NOT_VERSION,caseanw-毕业实习报告 archive-20.docx,caseanw-毕业实习报告 archive-20.docx,docx,docx,DIFFERENT,48,1.25,,negative:same-name-independent-document-20
+362,ENGINEERING_CALIBRATION,NOT_VERSION,caseanx-logistics analysis archive-21.pdf,caseanx-logistics analysis archive-21.pdf,pdf,pdf,DIFFERENT,720,1.26,0.52,negative:same-name-independent-document-21
+363,ENGINEERING_REGRESSION,NOT_VERSION,caseany-校园招聘策划 archive-22.pptx,caseany-校园招聘策划 archive-22.pptx,pptx,pptx,DIFFERENT,2160,,0.53,negative:same-name-independent-document-22
+364,ENGINEERING_CALIBRATION,NOT_VERSION,caseanz-user research report archive-23.xlsx,caseanz-user research report archive-23.xlsx,xlsx,xlsx,DIFFERENT,8760,1.28,0.54,negative:same-name-independent-document-23
+365,ENGINEERING_CALIBRATION,NOT_VERSION,caseaoa-数据结构课程作业 archive-24.docx,caseaoa-数据结构课程作业 archive-24.docx,docx,docx,DIFFERENT,48,1.29,0.55,negative:same-name-independent-document-24
+366,ENGINEERING_REGRESSION,NOT_VERSION,caseaob-financial analysis archive-25.pdf,caseaob-financial analysis archive-25.pdf,pdf,pdf,DIFFERENT,720,1.30,0.56,negative:same-name-independent-document-25
+367,ENGINEERING_CALIBRATION,NOT_VERSION,caseaoc-人力资源方案 archive-26.pptx,caseaoc-人力资源方案 archive-26.pptx,pptx,pptx,DIFFERENT,2160,1.31,0.57,negative:same-name-independent-document-26
+368,ENGINEERING_CALIBRATION,NOT_VERSION,caseaod-logistics analysis archive-27.xlsx,caseaod-logistics analysis archive-27.xlsx,xlsx,xlsx,DIFFERENT,,1.32,0.58,negative:same-name-independent-document-27
+369,ENGINEERING_REGRESSION,NOT_VERSION,caseaoe-产品运营复盘 archive-28.docx,caseaoe-产品运营复盘 archive-28.docx,docx,docx,DIFFERENT,48,1.33,0.59,negative:same-name-independent-document-28
+370,ENGINEERING_CALIBRATION,NOT_VERSION,caseaof-user research report archive-29.pdf,caseaof-user research report archive-29.pdf,pdf,pdf,DIFFERENT,720,1.34,0.60,negative:same-name-independent-document-29
+371,ENGINEERING_CALIBRATION,NOT_VERSION,caseaog-毕业实习报告 archive-30.pptx,caseaog-毕业实习报告 archive-30.pptx,pptx,pptx,DIFFERENT,2160,1.35,,negative:same-name-independent-document-30
+372,ENGINEERING_REGRESSION,NOT_VERSION,caseaoh-financial analysis archive-31.xlsx,caseaoh-financial analysis archive-31.xlsx,xlsx,xlsx,DIFFERENT,8760,1.36,0.62,negative:same-name-independent-document-31
+373,ENGINEERING_CALIBRATION,NOT_VERSION,caseaoi-校园招聘策划 archive-32.docx,caseaoi-校园招聘策划 archive-32.docx,docx,docx,DIFFERENT,48,1.37,0.63,negative:same-name-independent-document-32
+374,ENGINEERING_CALIBRATION,NOT_VERSION,caseaoj-logistics analysis archive-33.pdf,caseaoj-logistics analysis archive-33.pdf,pdf,pdf,DIFFERENT,720,,0.64,negative:same-name-independent-document-33
+375,ENGINEERING_REGRESSION,NOT_VERSION,caseaok-数据结构课程作业 archive-34.pptx,caseaok-数据结构课程作业 archive-34.pptx,pptx,pptx,DIFFERENT,2160,1.39,0.65,negative:same-name-independent-document-34
+376,ENGINEERING_CALIBRATION,NOT_VERSION,caseaol-user research report archive-35.xlsx,caseaol-user research report archive-35.xlsx,xlsx,xlsx,DIFFERENT,8760,1.05,0.66,negative:same-name-independent-document-35
+377,ENGINEERING_CALIBRATION,NOT_VERSION,caseaom-人力资源方案 archive-36.docx,caseaom-人力资源方案 archive-36.docx,docx,docx,DIFFERENT,,1.06,0.67,negative:same-name-independent-document-36
+378,ENGINEERING_REGRESSION,NOT_VERSION,caseaon-financial analysis archive-37.pdf,caseaon-financial analysis archive-37.pdf,pdf,pdf,DIFFERENT,720,1.07,0.68,negative:same-name-independent-document-37
+379,ENGINEERING_CALIBRATION,NOT_VERSION,caseaoo-产品运营复盘 archive-38.pptx,caseaoo-产品运营复盘 archive-38.pptx,pptx,pptx,DIFFERENT,2160,1.08,0.69,negative:same-name-independent-document-38
+380,ENGINEERING_CALIBRATION,NOT_VERSION,caseaop-logistics analysis archive-39.xlsx,caseaop-logistics analysis archive-39.xlsx,xlsx,xlsx,DIFFERENT,8760,1.09,0.70,negative:same-name-independent-document-39
+381,ENGINEERING_REGRESSION,NOT_VERSION,caseaoq-毕业实习报告 archive-40.docx,caseaoq-毕业实习报告 archive-40.docx,docx,docx,DIFFERENT,48,1.10,,negative:same-name-independent-document-40
+382,ENGINEERING_CALIBRATION,NOT_VERSION,caseaor-user research report archive-41.pdf,caseaor-user research report archive-41.pdf,pdf,pdf,DIFFERENT,720,1.11,0.72,negative:same-name-independent-document-41
+383,ENGINEERING_CALIBRATION,NOT_VERSION,caseaos-校园招聘策划 archive-42.pptx,caseaos-校园招聘策划 archive-42.pptx,pptx,pptx,DIFFERENT,2160,1.12,0.73,negative:same-name-independent-document-42
+384,ENGINEERING_REGRESSION,NOT_VERSION,caseaot-financial analysis archive-43.xlsx,caseaot-financial analysis archive-43.xlsx,xlsx,xlsx,DIFFERENT,8760,1.13,0.31,negative:same-name-independent-document-43
+385,ENGINEERING_CALIBRATION,NOT_VERSION,caseaou-数据结构课程作业 archive-44.docx,caseaou-数据结构课程作业 archive-44.docx,docx,docx,DIFFERENT,48,,0.32,negative:same-name-independent-document-44
+386,ENGINEERING_CALIBRATION,NOT_VERSION,caseaov-logistics analysis archive-45.pdf,caseaov-logistics analysis archive-45.pdf,pdf,pdf,DIFFERENT,,1.15,0.33,negative:same-name-independent-document-45
+387,ENGINEERING_REGRESSION,NOT_VERSION,caseaow-人力资源方案 archive-46.pptx,caseaow-人力资源方案 archive-46.pptx,pptx,pptx,DIFFERENT,2160,1.16,0.34,negative:same-name-independent-document-46
+388,ENGINEERING_CALIBRATION,NOT_VERSION,caseaox-user research report archive-47.xlsx,caseaox-user research report archive-47.xlsx,xlsx,xlsx,DIFFERENT,8760,1.17,0.35,negative:same-name-independent-document-47
+389,ENGINEERING_CALIBRATION,NOT_VERSION,caseaoy-产品运营复盘 archive-48.docx,caseaoy-产品运营复盘 archive-48.docx,docx,docx,DIFFERENT,48,1.18,0.36,negative:same-name-independent-document-48
+390,ENGINEERING_REGRESSION,NOT_VERSION,caseaoz-financial analysis archive-49.pdf,caseaoz-financial analysis archive-49.pdf,pdf,pdf,DIFFERENT,720,1.19,0.37,negative:same-name-independent-document-49
+391,ENGINEERING_CALIBRATION,NOT_VERSION,caseapa-毕业实习报告.pdf,caseapa-毕业实习报告.docx,pdf,docx,SAME,12,1.02,0.85,negative:cross-family-0
+392,ENGINEERING_CALIBRATION,NOT_VERSION,caseapb-machine learning project.docx,caseapb-machine learning project.pptx,docx,pptx,SAME,12,1.02,0.86,negative:cross-family-1
+393,ENGINEERING_REGRESSION,NOT_VERSION,caseapc-数据库实验总结.xlsx,caseapc-数据库实验总结.pdf,xlsx,pdf,SAME,12,1.02,0.87,negative:cross-family-2
+394,ENGINEERING_CALIBRATION,NOT_VERSION,caseapd-market research plan.pptx,caseapd-market research plan.xlsx,pptx,xlsx,SAME,12,1.02,0.88,negative:cross-family-3
+395,ENGINEERING_CALIBRATION,NOT_VERSION,caseape-机械制造实训.pdf,caseape-机械制造实训.docx,pdf,docx,SAME,12,1.02,0.89,negative:cross-family-4
+396,ENGINEERING_REGRESSION,NOT_VERSION,caseapf-financial analysis.docx,caseapf-financial analysis.pptx,docx,pptx,SAME,12,1.02,0.90,negative:cross-family-5
+397,ENGINEERING_CALIBRATION,NOT_VERSION,caseapg-校园招聘策划.xlsx,caseapg-校园招聘策划.pdf,xlsx,pdf,SAME,12,1.02,0.91,negative:cross-family-6
+398,ENGINEERING_CALIBRATION,NOT_VERSION,caseaph-ecommerce case study.pptx,caseaph-ecommerce case study.xlsx,pptx,xlsx,SAME,12,1.02,0.92,negative:cross-family-7
+399,ENGINEERING_REGRESSION,NOT_VERSION,caseapi-软件工程需求.pdf,caseapi-软件工程需求.docx,pdf,docx,SAME,12,1.02,0.93,negative:cross-family-8
+400,ENGINEERING_CALIBRATION,NOT_VERSION,caseapj-calculus review.docx,caseapj-calculus review.pptx,docx,pptx,SAME,12,1.02,0.94,negative:cross-family-9
+401,ENGINEERING_CALIBRATION,NOT_VERSION,caseapk-大学英语展示.xlsx,caseapk-大学英语展示.pdf,xlsx,pdf,SAME,12,1.02,0.95,negative:cross-family-10
+402,ENGINEERING_REGRESSION,NOT_VERSION,caseapl-network design.pptx,caseapl-network design.xlsx,pptx,xlsx,SAME,12,1.02,0.96,negative:cross-family-11
+403,ENGINEERING_CALIBRATION,NOT_VERSION,caseapm-数据结构课程作业.pdf,caseapm-数据结构课程作业.docx,pdf,docx,SAME,12,1.02,0.85,negative:cross-family-12
+404,ENGINEERING_CALIBRATION,NOT_VERSION,caseapn-mobile app design.docx,caseapn-mobile app design.pptx,docx,pptx,SAME,12,1.02,0.86,negative:cross-family-13
+405,ENGINEERING_REGRESSION,NOT_VERSION,caseapo-新能源项目书.xlsx,caseapo-新能源项目书.pdf,xlsx,pdf,SAME,12,1.02,0.87,negative:cross-family-14
+406,ENGINEERING_CALIBRATION,NOT_VERSION,caseapp-logistics analysis.pptx,caseapp-logistics analysis.xlsx,pptx,xlsx,SAME,12,1.02,0.88,negative:cross-family-15
+407,ENGINEERING_CALIBRATION,NOT_VERSION,caseapq-数字媒体策划.pdf,caseapq-数字媒体策划.docx,pdf,docx,SAME,12,1.02,0.89,negative:cross-family-16
+408,ENGINEERING_REGRESSION,NOT_VERSION,caseapr-environment survey.docx,caseapr-environment survey.pptx,docx,pptx,SAME,12,1.02,0.90,negative:cross-family-17
+409,ENGINEERING_CALIBRATION,NOT_VERSION,caseaps-人力资源方案.xlsx,caseaps-人力资源方案.pdf,xlsx,pdf,SAME,12,1.02,0.91,negative:cross-family-18
+410,ENGINEERING_CALIBRATION,NOT_VERSION,caseapt-international trade case.pptx,caseapt-international trade case.xlsx,pptx,xlsx,SAME,12,1.02,0.92,negative:cross-family-19
+411,ENGINEERING_REGRESSION,NOT_VERSION,caseapu-工程测量记录.pdf,caseapu-工程测量记录.docx,pdf,docx,SAME,12,1.02,0.93,negative:cross-family-20
+412,ENGINEERING_CALIBRATION,NOT_VERSION,caseapv-accounting practice.docx,caseapv-accounting practice.pptx,docx,pptx,SAME,12,1.02,0.94,negative:cross-family-21
+413,ENGINEERING_CALIBRATION,NOT_VERSION,caseapw-法律基础论文.xlsx,caseapw-法律基础论文.pdf,xlsx,pdf,SAME,12,1.02,0.95,negative:cross-family-22
+414,ENGINEERING_REGRESSION,NOT_VERSION,caseapx-tourism strategy.pptx,caseapx-tourism strategy.xlsx,pptx,xlsx,SAME,12,1.02,0.96,negative:cross-family-23
+415,ENGINEERING_CALIBRATION,NOT_VERSION,caseapy-产品运营复盘.pdf,caseapy-产品运营复盘.docx,pdf,docx,SAME,12,1.02,0.85,negative:cross-family-24
+416,ENGINEERING_CALIBRATION,NOT_VERSION,caseapz-user research report.docx,caseapz-user research report.pptx,docx,pptx,SAME,12,1.02,0.86,negative:cross-family-25
+417,ENGINEERING_REGRESSION,NOT_VERSION,caseaqa-供应链分析.xlsx,caseaqa-供应链分析.pdf,xlsx,pdf,SAME,12,1.02,0.87,negative:cross-family-26
+418,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqb-architecture brief.pptx,caseaqb-architecture brief.xlsx,pptx,xlsx,SAME,12,1.02,0.88,negative:cross-family-27
+419,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqc-医学统计报告.pdf,caseaqc-医学统计报告.docx,pdf,docx,SAME,12,1.02,0.89,negative:cross-family-28
+420,ENGINEERING_REGRESSION,NOT_VERSION,caseaqd-public policy survey.docx,caseaqd-public policy survey.pptx,docx,pptx,SAME,12,1.02,0.90,negative:cross-family-29
+421,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqe-毕业实习报告.xlsx,caseaqe-毕业实习报告.pdf,xlsx,pdf,SAME,12,1.02,0.91,negative:cross-family-30
+422,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqf-machine learning project.pptx,caseaqf-machine learning project.xlsx,pptx,xlsx,SAME,12,1.02,0.92,negative:cross-family-31
+423,ENGINEERING_REGRESSION,NOT_VERSION,caseaqg-数据库实验总结.pdf,caseaqg-数据库实验总结.docx,pdf,docx,SAME,12,1.02,0.93,negative:cross-family-32
+424,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqh-market research plan.docx,caseaqh-market research plan.pptx,docx,pptx,SAME,12,1.02,0.94,negative:cross-family-33
+425,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqi-机械制造实训.xlsx,caseaqi-机械制造实训.pdf,xlsx,pdf,SAME,12,1.02,0.95,negative:cross-family-34
+426,ENGINEERING_REGRESSION,NOT_VERSION,caseaqj-financial analysis.pptx,caseaqj-financial analysis.xlsx,pptx,xlsx,SAME,12,1.02,0.96,negative:cross-family-35
+427,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqk-校园招聘策划.pdf,caseaqk-校园招聘策划.docx,pdf,docx,SAME,12,1.02,0.85,negative:cross-family-36
+428,ENGINEERING_CALIBRATION,NOT_VERSION,caseaql-ecommerce case study.docx,caseaql-ecommerce case study.pptx,docx,pptx,SAME,12,1.02,0.86,negative:cross-family-37
+429,ENGINEERING_REGRESSION,NOT_VERSION,caseaqm-软件工程需求.xlsx,caseaqm-软件工程需求.pdf,xlsx,pdf,SAME,12,1.02,0.87,negative:cross-family-38
+430,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqn-calculus review.pptx,caseaqn-calculus review.xlsx,pptx,xlsx,SAME,12,1.02,0.88,negative:cross-family-39
+431,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqo-大学英语展示.pdf,caseaqo-大学英语展示.docx,pdf,docx,SAME,12,1.02,0.89,negative:cross-family-40
+432,ENGINEERING_REGRESSION,NOT_VERSION,caseaqp-network design.docx,caseaqp-network design.pptx,docx,pptx,SAME,12,1.02,0.90,negative:cross-family-41
+433,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqq-数据结构课程作业.xlsx,caseaqq-数据结构课程作业.pdf,xlsx,pdf,SAME,12,1.02,0.91,negative:cross-family-42
+434,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqr-mobile app design.pptx,caseaqr-mobile app design.xlsx,pptx,xlsx,SAME,12,1.02,0.92,negative:cross-family-43
+435,ENGINEERING_REGRESSION,NOT_VERSION,caseaqs-新能源项目书.pdf,caseaqs-新能源项目书.docx,pdf,docx,SAME,12,1.02,0.93,negative:cross-family-44
+436,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqt-logistics analysis.docx,caseaqt-logistics analysis.pptx,docx,pptx,SAME,12,1.02,0.94,negative:cross-family-45
+437,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqu-数字媒体策划.xlsx,caseaqu-数字媒体策划.pdf,xlsx,pdf,SAME,12,1.02,0.95,negative:cross-family-46
+438,ENGINEERING_REGRESSION,NOT_VERSION,caseaqv-environment survey.pptx,caseaqv-environment survey.xlsx,pptx,xlsx,SAME,12,1.02,0.96,negative:cross-family-47
+439,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqw-人力资源方案.pdf,caseaqw-人力资源方案.docx,pdf,docx,SAME,12,1.02,0.85,negative:cross-family-48
+440,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqx-international trade case.docx,caseaqx-international trade case.pptx,docx,pptx,SAME,12,1.02,0.86,negative:cross-family-49
+441,ENGINEERING_REGRESSION,NOT_VERSION,caseaqy-2010年度毕业实习报告_草稿.docx,caseaqy-2011年度毕业实习报告_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2010-2011
+442,ENGINEERING_CALIBRATION,NOT_VERSION,caseaqz-2011年度人工智能课程设计_草稿.docx,caseaqz-2012年度人工智能课程设计_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2011-2012
+443,ENGINEERING_CALIBRATION,NOT_VERSION,caseara-2012年度数据库实验总结_草稿.docx,caseara-2013年度数据库实验总结_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2012-2013
+444,ENGINEERING_REGRESSION,NOT_VERSION,casearb-2013年度市场营销调研_草稿.docx,casearb-2014年度市场营销调研_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2013-2014
+445,ENGINEERING_CALIBRATION,NOT_VERSION,casearc-2014年度机械制造实训_草稿.docx,casearc-2015年度机械制造实训_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2014-2015
+446,ENGINEERING_CALIBRATION,NOT_VERSION,caseard-2015年度财务分析方案_草稿.docx,caseard-2016年度财务分析方案_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2015-2016
+447,ENGINEERING_REGRESSION,NOT_VERSION,caseare-2016年度校园招聘策划_草稿.docx,caseare-2017年度校园招聘策划_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2016-2017
+448,ENGINEERING_CALIBRATION,NOT_VERSION,casearf-2017年度电子商务案例_草稿.docx,casearf-2018年度电子商务案例_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2017-2018
+449,ENGINEERING_CALIBRATION,NOT_VERSION,casearg-2018年度软件工程需求_草稿.docx,casearg-2019年度软件工程需求_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2018-2019
+450,ENGINEERING_REGRESSION,NOT_VERSION,casearh-2019年度高等数学复习_草稿.docx,casearh-2020年度高等数学复习_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2019-2020
+451,ENGINEERING_CALIBRATION,NOT_VERSION,caseari-2020年度大学英语展示_草稿.docx,caseari-2021年度大学英语展示_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2020-2021
+452,ENGINEERING_CALIBRATION,NOT_VERSION,casearj-2021年度计算机网络设计_草稿.docx,casearj-2022年度计算机网络设计_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2021-2022
+453,ENGINEERING_REGRESSION,NOT_VERSION,caseark-2022年度数据结构课程作业_草稿.docx,caseark-2023年度数据结构课程作业_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2022-2023
+454,ENGINEERING_CALIBRATION,NOT_VERSION,casearl-2023年度移动应用设计_草稿.docx,casearl-2024年度移动应用设计_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2023-2024
+455,ENGINEERING_CALIBRATION,NOT_VERSION,casearm-2024年度新能源项目书_草稿.docx,casearm-2025年度新能源项目书_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2024-2025
+456,ENGINEERING_REGRESSION,NOT_VERSION,casearn-2025年度物流管理分析_草稿.docx,casearn-2026年度物流管理分析_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2025-2026
+457,ENGINEERING_CALIBRATION,NOT_VERSION,casearo-2010年度数字媒体策划_草稿.docx,casearo-2011年度数字媒体策划_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2010-2011
+458,ENGINEERING_CALIBRATION,NOT_VERSION,casearp-2011年度环境监测报告_草稿.docx,casearp-2012年度环境监测报告_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2011-2012
+459,ENGINEERING_REGRESSION,NOT_VERSION,casearq-2012年度人力资源方案_草稿.docx,casearq-2013年度人力资源方案_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2012-2013
+460,ENGINEERING_CALIBRATION,NOT_VERSION,casearr-2013年度国际贸易案例_草稿.docx,casearr-2014年度国际贸易案例_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2013-2014
+461,ENGINEERING_CALIBRATION,NOT_VERSION,casears-2014年度工程测量记录_草稿.docx,casears-2015年度工程测量记录_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2014-2015
+462,ENGINEERING_REGRESSION,NOT_VERSION,caseart-2015年度会计实务总结_草稿.docx,caseart-2016年度会计实务总结_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2015-2016
+463,ENGINEERING_CALIBRATION,NOT_VERSION,casearu-2016年度法律基础论文_草稿.docx,casearu-2017年度法律基础论文_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2016-2017
+464,ENGINEERING_CALIBRATION,NOT_VERSION,casearv-2017年度旅游规划方案_草稿.docx,casearv-2018年度旅游规划方案_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2017-2018
+465,ENGINEERING_REGRESSION,NOT_VERSION,casearw-2018年度产品运营复盘_草稿.docx,casearw-2019年度产品运营复盘_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2018-2019
+466,ENGINEERING_CALIBRATION,NOT_VERSION,casearx-2019年度用户研究报告_草稿.docx,casearx-2020年度用户研究报告_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2019-2020
+467,ENGINEERING_CALIBRATION,NOT_VERSION,caseary-2020年度供应链分析_草稿.docx,caseary-2021年度供应链分析_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2020-2021
+468,ENGINEERING_REGRESSION,NOT_VERSION,casearz-2021年度建筑设计说明_草稿.docx,casearz-2022年度建筑设计说明_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2021-2022
+469,ENGINEERING_CALIBRATION,NOT_VERSION,caseasa-2022年度医学统计报告_草稿.docx,caseasa-2023年度医学统计报告_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2022-2023
+470,ENGINEERING_CALIBRATION,NOT_VERSION,caseasb-2023年度公共管理调查_草稿.docx,caseasb-2024年度公共管理调查_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2023-2024
+471,ENGINEERING_REGRESSION,NOT_VERSION,caseasc-2024年度毕业实习报告_草稿.docx,caseasc-2025年度毕业实习报告_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2024-2025
+472,ENGINEERING_CALIBRATION,NOT_VERSION,caseasd-2025年度人工智能课程设计_草稿.docx,caseasd-2026年度人工智能课程设计_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2025-2026
+473,ENGINEERING_CALIBRATION,NOT_VERSION,casease-2010年度数据库实验总结_草稿.docx,casease-2011年度数据库实验总结_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2010-2011
+474,ENGINEERING_REGRESSION,NOT_VERSION,caseasf-2011年度市场营销调研_草稿.docx,caseasf-2012年度市场营销调研_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2011-2012
+475,ENGINEERING_CALIBRATION,NOT_VERSION,caseasg-2012年度机械制造实训_草稿.docx,caseasg-2013年度机械制造实训_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2012-2013
+476,ENGINEERING_CALIBRATION,NOT_VERSION,caseash-2013年度财务分析方案_草稿.docx,caseash-2014年度财务分析方案_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2013-2014
+477,ENGINEERING_REGRESSION,NOT_VERSION,caseasi-2014年度校园招聘策划_草稿.docx,caseasi-2015年度校园招聘策划_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2014-2015
+478,ENGINEERING_CALIBRATION,NOT_VERSION,caseasj-2015年度电子商务案例_草稿.docx,caseasj-2016年度电子商务案例_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2015-2016
+479,ENGINEERING_CALIBRATION,NOT_VERSION,caseask-2016年度软件工程需求_草稿.docx,caseask-2017年度软件工程需求_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2016-2017
+480,ENGINEERING_REGRESSION,NOT_VERSION,caseasl-2017年度高等数学复习_草稿.docx,caseasl-2018年度高等数学复习_最终版.docx,docx,docx,SAME,24,1.03,0.94,strong-conflict:YEAR:2017-2018
+481,ENGINEERING_CALIBRATION,NOT_VERSION,caseasm-毕业实习报告第1章_草稿.pdf,caseasm-毕业实习报告第4章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:1-4
+482,ENGINEERING_CALIBRATION,NOT_VERSION,caseasn-电子商务案例第2章_草稿.pdf,caseasn-电子商务案例第5章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:2-5
+483,ENGINEERING_REGRESSION,NOT_VERSION,caseaso-新能源项目书第3章_草稿.pdf,caseaso-新能源项目书第6章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:3-6
+484,ENGINEERING_CALIBRATION,NOT_VERSION,caseasp-会计实务总结第4章_草稿.pdf,caseasp-会计实务总结第7章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:4-7
+485,ENGINEERING_CALIBRATION,NOT_VERSION,caseasq-医学统计报告第5章_草稿.pdf,caseasq-医学统计报告第8章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:5-8
+486,ENGINEERING_REGRESSION,NOT_VERSION,caseasr-财务分析方案第6章_草稿.pdf,caseasr-财务分析方案第9章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:6-9
+487,ENGINEERING_CALIBRATION,NOT_VERSION,caseass-数据结构课程作业第7章_草稿.pdf,caseass-数据结构课程作业第1章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:7-1
+488,ENGINEERING_CALIBRATION,NOT_VERSION,caseast-国际贸易案例第8章_草稿.pdf,caseast-国际贸易案例第2章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:8-2
+489,ENGINEERING_REGRESSION,NOT_VERSION,caseasu-供应链分析第9章_草稿.pdf,caseasu-供应链分析第3章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:9-3
+490,ENGINEERING_CALIBRATION,NOT_VERSION,caseasv-市场营销调研第1章_草稿.pdf,caseasv-市场营销调研第4章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:1-4
+491,ENGINEERING_CALIBRATION,NOT_VERSION,caseasw-大学英语展示第2章_草稿.pdf,caseasw-大学英语展示第5章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:2-5
+492,ENGINEERING_REGRESSION,NOT_VERSION,caseasx-环境监测报告第3章_草稿.pdf,caseasx-环境监测报告第6章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:3-6
+493,ENGINEERING_CALIBRATION,NOT_VERSION,caseasy-产品运营复盘第4章_草稿.pdf,caseasy-产品运营复盘第7章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:4-7
+494,ENGINEERING_CALIBRATION,NOT_VERSION,caseasz-人工智能课程设计第5章_草稿.pdf,caseasz-人工智能课程设计第8章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:5-8
+495,ENGINEERING_REGRESSION,NOT_VERSION,caseata-软件工程需求第6章_草稿.pdf,caseata-软件工程需求第9章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:6-9
+496,ENGINEERING_CALIBRATION,NOT_VERSION,caseatb-物流管理分析第7章_草稿.pdf,caseatb-物流管理分析第1章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:7-1
+497,ENGINEERING_CALIBRATION,NOT_VERSION,caseatc-法律基础论文第8章_草稿.pdf,caseatc-法律基础论文第2章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:8-2
+498,ENGINEERING_REGRESSION,NOT_VERSION,caseatd-公共管理调查第9章_草稿.pdf,caseatd-公共管理调查第3章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:9-3
+499,ENGINEERING_CALIBRATION,NOT_VERSION,caseate-校园招聘策划第1章_草稿.pdf,caseate-校园招聘策划第4章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:1-4
+500,ENGINEERING_CALIBRATION,NOT_VERSION,caseatf-移动应用设计第2章_草稿.pdf,caseatf-移动应用设计第5章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:2-5
+501,ENGINEERING_REGRESSION,NOT_VERSION,caseatg-工程测量记录第3章_草稿.pdf,caseatg-工程测量记录第6章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:3-6
+502,ENGINEERING_CALIBRATION,NOT_VERSION,caseath-建筑设计说明第4章_草稿.pdf,caseath-建筑设计说明第7章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:4-7
+503,ENGINEERING_CALIBRATION,NOT_VERSION,caseati-机械制造实训第5章_草稿.pdf,caseati-机械制造实训第8章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:5-8
+504,ENGINEERING_REGRESSION,NOT_VERSION,caseatj-计算机网络设计第6章_草稿.pdf,caseatj-计算机网络设计第9章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:6-9
+505,ENGINEERING_CALIBRATION,NOT_VERSION,caseatk-人力资源方案第7章_草稿.pdf,caseatk-人力资源方案第1章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:7-1
+506,ENGINEERING_CALIBRATION,NOT_VERSION,caseatl-用户研究报告第8章_草稿.pdf,caseatl-用户研究报告第2章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:8-2
+507,ENGINEERING_REGRESSION,NOT_VERSION,caseatm-数据库实验总结第9章_草稿.pdf,caseatm-数据库实验总结第3章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:9-3
+508,ENGINEERING_CALIBRATION,NOT_VERSION,caseatn-高等数学复习第1章_草稿.pdf,caseatn-高等数学复习第4章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:1-4
+509,ENGINEERING_CALIBRATION,NOT_VERSION,caseato-数字媒体策划第2章_草稿.pdf,caseato-数字媒体策划第5章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:2-5
+510,ENGINEERING_REGRESSION,NOT_VERSION,caseatp-旅游规划方案第3章_草稿.pdf,caseatp-旅游规划方案第6章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:3-6
+511,ENGINEERING_CALIBRATION,NOT_VERSION,caseatq-毕业实习报告第4章_草稿.pdf,caseatq-毕业实习报告第7章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:4-7
+512,ENGINEERING_CALIBRATION,NOT_VERSION,caseatr-电子商务案例第5章_草稿.pdf,caseatr-电子商务案例第8章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:5-8
+513,ENGINEERING_REGRESSION,NOT_VERSION,caseats-新能源项目书第6章_草稿.pdf,caseats-新能源项目书第9章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:6-9
+514,ENGINEERING_CALIBRATION,NOT_VERSION,caseatt-会计实务总结第7章_草稿.pdf,caseatt-会计实务总结第1章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:7-1
+515,ENGINEERING_CALIBRATION,NOT_VERSION,caseatu-医学统计报告第8章_草稿.pdf,caseatu-医学统计报告第2章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:8-2
+516,ENGINEERING_REGRESSION,NOT_VERSION,caseatv-财务分析方案第9章_草稿.pdf,caseatv-财务分析方案第3章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:9-3
+517,ENGINEERING_CALIBRATION,NOT_VERSION,caseatw-数据结构课程作业第1章_草稿.pdf,caseatw-数据结构课程作业第4章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:1-4
+518,ENGINEERING_CALIBRATION,NOT_VERSION,caseatx-国际贸易案例第2章_草稿.pdf,caseatx-国际贸易案例第5章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:2-5
+519,ENGINEERING_REGRESSION,NOT_VERSION,caseaty-供应链分析第3章_草稿.pdf,caseaty-供应链分析第6章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:3-6
+520,ENGINEERING_CALIBRATION,NOT_VERSION,caseatz-市场营销调研第4章_草稿.pdf,caseatz-市场营销调研第7章_最终版.pdf,pdf,pdf,SAME,8,1.05,0.92,strong-conflict:CHAPTER:4-7
+521,ENGINEERING_CALIBRATION,NOT_VERSION,caseaua-毕业实习报告作业1_草稿.docx,caseaua-毕业实习报告作业2_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:1-2
+522,ENGINEERING_REGRESSION,NOT_VERSION,caseaub-计算机网络设计作业2_草稿.pdf,caseaub-计算机网络设计作业3_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:2-3
+523,ENGINEERING_CALIBRATION,NOT_VERSION,caseauc-法律基础论文作业3_草稿.pptx,caseauc-法律基础论文作业4_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:3-4
+524,ENGINEERING_CALIBRATION,NOT_VERSION,caseaud-市场营销调研作业4_草稿.xlsx,caseaud-市场营销调研作业5_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:4-5
+525,ENGINEERING_REGRESSION,NOT_VERSION,caseaue-新能源项目书作业5_草稿.docx,caseaue-新能源项目书作业6_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:5-6
+526,ENGINEERING_CALIBRATION,NOT_VERSION,caseauf-用户研究报告作业6_草稿.pdf,caseauf-用户研究报告作业7_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:6-7
+527,ENGINEERING_CALIBRATION,NOT_VERSION,caseaug-校园招聘策划作业7_草稿.pptx,caseaug-校园招聘策划作业8_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:7-8
+528,ENGINEERING_REGRESSION,NOT_VERSION,caseauh-环境监测报告作业8_草稿.xlsx,caseauh-环境监测报告作业9_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:8-9
+529,ENGINEERING_CALIBRATION,NOT_VERSION,caseaui-医学统计报告作业9_草稿.docx,caseaui-医学统计报告作业10_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:9-10
+530,ENGINEERING_CALIBRATION,NOT_VERSION,caseauj-高等数学复习作业10_草稿.pdf,caseauj-高等数学复习作业11_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:10-11
+531,ENGINEERING_REGRESSION,NOT_VERSION,caseauk-工程测量记录作业11_草稿.pptx,caseauk-工程测量记录作业12_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:11-12
+532,ENGINEERING_CALIBRATION,NOT_VERSION,caseaul-人工智能课程设计作业12_草稿.xlsx,caseaul-人工智能课程设计作业13_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:12-13
+533,ENGINEERING_CALIBRATION,NOT_VERSION,caseaum-数据结构课程作业作业1_草稿.docx,caseaum-数据结构课程作业作业2_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:1-2
+534,ENGINEERING_REGRESSION,NOT_VERSION,caseaun-旅游规划方案作业2_草稿.pdf,caseaun-旅游规划方案作业3_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:2-3
+535,ENGINEERING_CALIBRATION,NOT_VERSION,caseauo-机械制造实训作业3_草稿.pptx,caseauo-机械制造实训作业4_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:3-4
+536,ENGINEERING_CALIBRATION,NOT_VERSION,caseaup-物流管理分析作业4_草稿.xlsx,caseaup-物流管理分析作业5_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:4-5
+537,ENGINEERING_REGRESSION,NOT_VERSION,caseauq-供应链分析作业5_草稿.docx,caseauq-供应链分析作业6_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:5-6
+538,ENGINEERING_CALIBRATION,NOT_VERSION,caseaur-电子商务案例作业6_草稿.pdf,caseaur-电子商务案例作业7_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:6-7
+539,ENGINEERING_CALIBRATION,NOT_VERSION,caseaus-人力资源方案作业7_草稿.pptx,caseaus-人力资源方案作业8_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:7-8
+540,ENGINEERING_REGRESSION,NOT_VERSION,caseaut-公共管理调查作业8_草稿.xlsx,caseaut-公共管理调查作业9_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:8-9
+541,ENGINEERING_CALIBRATION,NOT_VERSION,caseauu-大学英语展示作业9_草稿.docx,caseauu-大学英语展示作业10_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:9-10
+542,ENGINEERING_CALIBRATION,NOT_VERSION,caseauv-会计实务总结作业10_草稿.pdf,caseauv-会计实务总结作业11_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:10-11
+543,ENGINEERING_REGRESSION,NOT_VERSION,caseauw-数据库实验总结作业11_草稿.pptx,caseauw-数据库实验总结作业12_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:11-12
+544,ENGINEERING_CALIBRATION,NOT_VERSION,caseaux-移动应用设计作业12_草稿.xlsx,caseaux-移动应用设计作业13_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:12-13
+545,ENGINEERING_CALIBRATION,NOT_VERSION,caseauy-产品运营复盘作业1_草稿.docx,caseauy-产品运营复盘作业2_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:1-2
+546,ENGINEERING_REGRESSION,NOT_VERSION,caseauz-财务分析方案作业2_草稿.pdf,caseauz-财务分析方案作业3_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:2-3
+547,ENGINEERING_CALIBRATION,NOT_VERSION,caseava-数字媒体策划作业3_草稿.pptx,caseava-数字媒体策划作业4_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:3-4
+548,ENGINEERING_CALIBRATION,NOT_VERSION,caseavb-建筑设计说明作业4_草稿.xlsx,caseavb-建筑设计说明作业5_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:4-5
+549,ENGINEERING_REGRESSION,NOT_VERSION,caseavc-软件工程需求作业5_草稿.docx,caseavc-软件工程需求作业6_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:5-6
+550,ENGINEERING_CALIBRATION,NOT_VERSION,caseavd-国际贸易案例作业6_草稿.pdf,caseavd-国际贸易案例作业7_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:6-7
+551,ENGINEERING_CALIBRATION,NOT_VERSION,caseave-毕业实习报告作业7_草稿.pptx,caseave-毕业实习报告作业8_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:7-8
+552,ENGINEERING_REGRESSION,NOT_VERSION,caseavf-计算机网络设计作业8_草稿.xlsx,caseavf-计算机网络设计作业9_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:8-9
+553,ENGINEERING_CALIBRATION,NOT_VERSION,caseavg-法律基础论文作业9_草稿.docx,caseavg-法律基础论文作业10_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:9-10
+554,ENGINEERING_CALIBRATION,NOT_VERSION,caseavh-市场营销调研作业10_草稿.pdf,caseavh-市场营销调研作业11_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:10-11
+555,ENGINEERING_REGRESSION,NOT_VERSION,caseavi-新能源项目书作业11_草稿.pptx,caseavi-新能源项目书作业12_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:11-12
+556,ENGINEERING_CALIBRATION,NOT_VERSION,caseavj-用户研究报告作业12_草稿.xlsx,caseavj-用户研究报告作业13_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:12-13
+557,ENGINEERING_CALIBRATION,NOT_VERSION,caseavk-校园招聘策划作业1_草稿.docx,caseavk-校园招聘策划作业2_最终版.docx,docx,docx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:1-2
+558,ENGINEERING_REGRESSION,NOT_VERSION,caseavl-环境监测报告作业2_草稿.pdf,caseavl-环境监测报告作业3_最终版.pdf,pdf,pdf,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:2-3
+559,ENGINEERING_CALIBRATION,NOT_VERSION,caseavm-医学统计报告作业3_草稿.pptx,caseavm-医学统计报告作业4_最终版.pptx,pptx,pptx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:3-4
+560,ENGINEERING_CALIBRATION,NOT_VERSION,caseavn-高等数学复习作业4_草稿.xlsx,caseavn-高等数学复习作业5_最终版.xlsx,xlsx,xlsx,SAME,3,1.01,0.96,strong-conflict:ASSIGNMENT:4-5
+561,ENGINEERING_REGRESSION,NOT_VERSION,caseavo-internship report course-101-draft.docx,caseavo-internship report course-201-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-101-201
+562,ENGINEERING_CALIBRATION,NOT_VERSION,caseavp-machine learning project course-102-draft.pdf,caseavp-machine learning project course-202-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-102-202
+563,ENGINEERING_CALIBRATION,NOT_VERSION,caseavq-database lab summary course-103-draft.pptx,caseavq-database lab summary course-203-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-103-203
+564,ENGINEERING_REGRESSION,NOT_VERSION,caseavr-market research plan course-104-draft.xlsx,caseavr-market research plan course-204-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-104-204
+565,ENGINEERING_CALIBRATION,NOT_VERSION,caseavs-manufacturing practice course-105-draft.docx,caseavs-manufacturing practice course-205-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-105-205
+566,ENGINEERING_CALIBRATION,NOT_VERSION,caseavt-financial analysis course-106-draft.pdf,caseavt-financial analysis course-206-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-106-206
+567,ENGINEERING_REGRESSION,NOT_VERSION,caseavu-campus hiring proposal course-107-draft.pptx,caseavu-campus hiring proposal course-207-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-107-207
+568,ENGINEERING_CALIBRATION,NOT_VERSION,caseavv-ecommerce case study course-108-draft.xlsx,caseavv-ecommerce case study course-208-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-108-208
+569,ENGINEERING_CALIBRATION,NOT_VERSION,caseavw-software requirements course-109-draft.docx,caseavw-software requirements course-209-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-109-209
+570,ENGINEERING_REGRESSION,NOT_VERSION,caseavx-calculus review course-110-draft.pdf,caseavx-calculus review course-210-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-110-210
+571,ENGINEERING_CALIBRATION,NOT_VERSION,caseavy-english presentation course-111-draft.pptx,caseavy-english presentation course-211-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-111-211
+572,ENGINEERING_CALIBRATION,NOT_VERSION,caseavz-network design course-112-draft.xlsx,caseavz-network design course-212-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-112-212
+573,ENGINEERING_REGRESSION,NOT_VERSION,caseawa-data structures assignment course-113-draft.docx,caseawa-data structures assignment course-213-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-113-213
+574,ENGINEERING_CALIBRATION,NOT_VERSION,caseawb-mobile app design course-114-draft.pdf,caseawb-mobile app design course-214-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-114-214
+575,ENGINEERING_CALIBRATION,NOT_VERSION,caseawc-renewable energy proposal course-115-draft.pptx,caseawc-renewable energy proposal course-215-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-115-215
+576,ENGINEERING_REGRESSION,NOT_VERSION,caseawd-logistics analysis course-116-draft.xlsx,caseawd-logistics analysis course-216-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-116-216
+577,ENGINEERING_CALIBRATION,NOT_VERSION,caseawe-digital media plan course-117-draft.docx,caseawe-digital media plan course-217-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-117-217
+578,ENGINEERING_CALIBRATION,NOT_VERSION,caseawf-environment survey course-118-draft.pdf,caseawf-environment survey course-218-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-118-218
+579,ENGINEERING_REGRESSION,NOT_VERSION,caseawg-human resources plan course-119-draft.pptx,caseawg-human resources plan course-219-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-119-219
+580,ENGINEERING_CALIBRATION,NOT_VERSION,caseawh-international trade case course-120-draft.xlsx,caseawh-international trade case course-220-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-120-220
+581,ENGINEERING_CALIBRATION,NOT_VERSION,caseawi-engineering field notes course-101-draft.docx,caseawi-engineering field notes course-201-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-101-201
+582,ENGINEERING_REGRESSION,NOT_VERSION,caseawj-accounting practice course-102-draft.pdf,caseawj-accounting practice course-202-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-102-202
+583,ENGINEERING_CALIBRATION,NOT_VERSION,caseawk-legal studies essay course-103-draft.pptx,caseawk-legal studies essay course-203-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-103-203
+584,ENGINEERING_CALIBRATION,NOT_VERSION,caseawl-tourism strategy course-104-draft.xlsx,caseawl-tourism strategy course-204-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-104-204
+585,ENGINEERING_REGRESSION,NOT_VERSION,caseawm-product operations review course-105-draft.docx,caseawm-product operations review course-205-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-105-205
+586,ENGINEERING_CALIBRATION,NOT_VERSION,caseawn-user research report course-106-draft.pdf,caseawn-user research report course-206-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-106-206
+587,ENGINEERING_CALIBRATION,NOT_VERSION,caseawo-supply chain analysis course-107-draft.pptx,caseawo-supply chain analysis course-207-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-107-207
+588,ENGINEERING_REGRESSION,NOT_VERSION,caseawp-architecture brief course-108-draft.xlsx,caseawp-architecture brief course-208-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-108-208
+589,ENGINEERING_CALIBRATION,NOT_VERSION,caseawq-medical statistics report course-109-draft.docx,caseawq-medical statistics report course-209-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-109-209
+590,ENGINEERING_CALIBRATION,NOT_VERSION,caseawr-public policy survey course-110-draft.pdf,caseawr-public policy survey course-210-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-110-210
+591,ENGINEERING_REGRESSION,NOT_VERSION,caseaws-internship report course-111-draft.pptx,caseaws-internship report course-211-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-111-211
+592,ENGINEERING_CALIBRATION,NOT_VERSION,caseawt-machine learning project course-112-draft.xlsx,caseawt-machine learning project course-212-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-112-212
+593,ENGINEERING_CALIBRATION,NOT_VERSION,caseawu-database lab summary course-113-draft.docx,caseawu-database lab summary course-213-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-113-213
+594,ENGINEERING_REGRESSION,NOT_VERSION,caseawv-market research plan course-114-draft.pdf,caseawv-market research plan course-214-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-114-214
+595,ENGINEERING_CALIBRATION,NOT_VERSION,caseaww-manufacturing practice course-115-draft.pptx,caseaww-manufacturing practice course-215-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-115-215
+596,ENGINEERING_CALIBRATION,NOT_VERSION,caseawx-financial analysis course-116-draft.xlsx,caseawx-financial analysis course-216-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-116-216
+597,ENGINEERING_REGRESSION,NOT_VERSION,caseawy-campus hiring proposal course-117-draft.docx,caseawy-campus hiring proposal course-217-final.docx,docx,docx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-117-217
+598,ENGINEERING_CALIBRATION,NOT_VERSION,caseawz-ecommerce case study course-118-draft.pdf,caseawz-ecommerce case study course-218-final.pdf,pdf,pdf,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-118-218
+599,ENGINEERING_CALIBRATION,NOT_VERSION,caseaxa-software requirements course-119-draft.pptx,caseaxa-software requirements course-219-final.pptx,pptx,pptx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-119-219
+600,ENGINEERING_REGRESSION,NOT_VERSION,caseaxb-calculus review course-120-draft.xlsx,caseaxb-calculus review course-220-final.xlsx,xlsx,xlsx,SAME,5,1.04,0.90,strong-conflict:ASSIGNMENT:course-number-120-220
