@@ -28,7 +28,9 @@ android {
     buildTypes {
         release {
             optimization {
-                enable false
+                // 开启 R8 代码压缩与混淆。原先为 false，导致依赖中所有未被调用的代码
+                // 都被完整打入 APK，dex 达 27.8MB（占 APK 的 96%）。开启后体积可大幅下降。
+                enable true
             }
         }
     }

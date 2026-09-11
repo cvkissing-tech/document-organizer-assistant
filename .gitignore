@@ -1,27 +1,27 @@
-# Document Organizer / 文档整理助手
-# 技术栈: Android · Kotlin · Jetpack Compose · Room (KSP) · Gradle
-# 说明: 不带前导斜杠的规则(如 build/)可匹配任意层级, 一条即可覆盖根目录与 app/ 子模块
-
-# ---------- Gradle 缓存与编译产物 ----------
+# Android Studio and Gradle
+*.iml
+.idea/
 .gradle/
-build/
 .kotlin/
+.vscode/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
 
-# ---------- Android 构建输出 ----------
-# Android Studio 签名打包默认输出至 app/release/, 该路径不经 build/, 需单独忽略
+# Local machine configuration
+local.properties
+.gradle-user-home/
+.playwright-cli/
+.superpowers/
+.DS_Store
+Thumbs.db
+
+# Release artifacts and signing secrets
 app/release/
 *.apk
 *.aab
 *.hprof
-
-# ---------- 本机专属配置(含 SDK 绝对路径, 禁止提交) ----------
-local.properties
-
-# ---------- IDE ----------
-.idea/
-*.iml
-
-# ---------- 签名密钥与敏感信息 ----------
 *.jks
 *.keystore
 *.p12
@@ -29,7 +29,3 @@ local.properties
 keystore.properties
 .env
 .env.*
-
-# ---------- 操作系统文件 ----------
-.DS_Store
-Thumbs.db
